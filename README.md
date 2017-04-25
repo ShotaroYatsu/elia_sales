@@ -85,7 +85,7 @@ Then insert the code between this "}," and the "]".
       ]
     }
 
-When you finish inserting templates (i.e. the set of code presented under the Introduction section), make sure the bottom three lines look just like when you started working. There should be no comma in the last three lines.
+When you finish inserting templates, make sure the bottom three lines look just like when you started working. There should be no comma in the last three lines.
 
 <b>"Properties" section</b>
 
