@@ -107,7 +107,7 @@ http://www.latlong.net/convert-address-to-lat-long.html
 
 <b>Examples</b>
 
-For example, see the first four sets of features that is already uploaded onto the geoJSON file. 
+See the first four sets of features that is already uploaded onto the geoJSON file. 
 
 # Common Mistakes
 
