@@ -24,7 +24,7 @@ A feature, or a set of information that describes one location, looks like the f
         "phone": "",
         "indoor/outdoor": "",
         "produce type": "",
-        "notes: ""
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -72,7 +72,7 @@ Then insert the code between this "}," and the "]".
             "phone": "",
             "indoor/outdoor": "",
             "produce type": "",
-            "notes: ""
+            "notes": ""
           },
           "geometry": {
             "type": "Point",
