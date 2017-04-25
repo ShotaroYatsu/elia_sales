@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1",
+        "name": "Grapevine Farms",
+        "URL": "http://grapevinefarms.org/",
+        "street": "601 Anson Ave",
+        "city": "Abilene",
+        "state": "TX",
+        "zip": "79601",
+        "email": "N/A",
+        "phone": "(325)665-7818",
+        "indoor/outdoor": "Outdoor",
+        "produce type": "Vegetables, Fruits",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.725721,
+          32.486768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "name": "Wolf Creek Farm",
+        "URL": "http://wolfcreekfarmsonline.com/",
+        "street": "5301 County Road 1260",
+        "city": "Lubbock",
+        "state": "TX",
+        "zip": "79407",
+        "email": "N/A",
+        "phone": "(806)853-7901",
+        "indoor/outdoor": "Outdoor",
+        "produce type": "Vegetables, Fruits",
+        "notes": "Has its own store to sell produce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.029858,
+          33.545049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "name": "Wye Mountain Flowers & Berries",
+        "URL": "https://www.wyemountain.net/",
+        "street": "20309 Hwy 113",
+        "city": "Roland",
+        "state": "Ar",
+        "zip": "72135",
+        "email": "farm@wyemountain.net",
+        "phone": "(501)330-1906",
+        "indoor/outdoor": "Outdoor",
+        "produce type": "Flowers, Berries",
+        "notes": "25 miles from Little Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.647495,
+          34.926477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4",
+        "name": "Ten Acre Organics",
+        "URL": "http://www.tenacreorganics.com/",
+        "street": "5015 Maufrais Ln",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78744",
+        "email": "info@tenacreorganics.com",
+        "phone": "N/A",
+        "indoor/outdoor": "Indoor",
+        "produce type": "Vegetables",
+        "notes": "Might not be in business anymore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736973,
+          30.199026
+        ]
+      }
+    }
+  ]
+}
