@@ -121,28 +121,28 @@
         ]
       }
     },
-{
-  "type": "Feature",
-  "properties": {
-    "id": "6",
-    "name": "Able Farms, Inc.",
-    "URL": "http://www.ablefarms.org/",
-    "street": "N/A",
-    "city": "Portland",
-    "state": "OR",
-    "zip": "N/A",
-    "email": "ablefarmspdx@gmail.com",
-    "phone": "(503)828-7458",
-    "indoor/outdoor": "Outdoor",
-    "produce type": "Vegetables, Fruits,Meats,Eggs",
-    "notes": "CSA, organic, GMO-free"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      00.000000,
-      00.000000
- ]
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6",
+        "name": "Able Farms, Inc.",
+        "URL": "http://www.ablefarms.org/",
+        "street": "N/A",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "N/A",
+        "email": "ablefarmspdx@gmail.com",
+        "phone": "(503)828-7458",
+        "indoor/outdoor": "Outdoor",
+        "produce type": "Vegetables, Fruits,Meats,Eggs",
+        "notes": "CSA, organic, GMO-free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          00.000000,
+          00.000000
+        ]
       }
     }
   ]
