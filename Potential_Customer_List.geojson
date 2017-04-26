@@ -220,6 +220,294 @@
 {
   "type": "Feature",
   "properties": {
+    "id": "10",
+    "name": "Christopher Bridge Cellars",
+    "URL": "http://christopherbridgewines.com/",
+    "street": "12770 S. Casto Road",
+    "city": "Oregon City",
+    "state": "OR",
+    "zip": "97045-9550",
+    "email": "info@christopherbridgewines.com",
+    "phone": "(503)263-6267",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "Wine, Mainly Pinot Noir & Pinot Gris",
+    "notes": "80 acre, Owners names-Chris and Susanne Carlberg"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.605474,
+      45.263644
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "11",
+    "name": "Marquam Meadows Fruit Company",
+    "URL": "http://marquammeadowsfruit.com/",
+    "street": "9924 Marquam Cir",
+    "city": "Marquam Circle Molalla",
+    "state": "OR",
+    "zip": "97038",
+    "email": "apples@marquammeadowsfruit.com",
+    "phone": "(503) 829-5047",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "Apple Orchard",
+    "notes": "U-pick, Don't seel commercially,Family Farm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.659101,
+      45.083978
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "12",
+    "name": "Fir Point Farms",
+    "URL": "http://firpointfarms.com",
+    "street": "14601 Arndt Road",
+    "city": "Aurora",
+    "state": "OR",
+    "zip": "97002",
+    "email": "store@firpointfarms.com",
+    "phone": "(503) 678-2455",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "Pumpkin Patch",
+    "notes": "35 acre, Pumpkin Patch, Sells other produce too"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.758914,
+      45.259942
+   ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "13",
+    "name": "Simpson Street Farm",
+    "URL": "https://www.facebook.com/simpsonstreetfarm/",
+    "street": "4609 NE Simpson St",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97218",
+    "email": "simpsonstreetfarm@gmail.com",
+    "phone": "(503)459-7882",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "Vegetables, Chickens,Eggs",
+    "notes": "0.9 acres"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.615237,
+      45.565514
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "14",
+    "name": "Lee Farms",
+    "URL": "https://www.leefarmsoregon.com",
+    "street": "21975 SW 65th Ave",
+    "city": "Tualatin",
+    "state": "OR",
+    "zip": "97062",
+    "email": "info@leefarmsoregon.com",
+    "phone": "(503) 638-1869",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "Pumpkin Patch, Christmas Trees,Berries",
+    "notes": "Family-Run"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.744398,
+      45.361756
+       ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "15",
+    "name": "Kruger's Farm",
+    "URL": "http://krugersfarm.com/",
+    "street": "17100 NW Sauvie Island Rd",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97231",
+    "email": "info@krugersfarm.com",
+    "phone": "(503)621-3489",
+    "indoor/outdoor": "",
+    "produce type": "Berries, Pumpkins,Pickling Cucumber",
+    "notes": "150 acre, U-pick Berries, Pumpkin fields, Corn Maze"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.823642,
+      45.647753
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "16",
+    "name": "Bella Organic",
+    "URL": "http://bellaorganic.com/",
+    "street": "16205 NW Gillihan Rd",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97231",
+    "email": "johnny@bellaorganic.com",
+    "phone": "(503)621-9545",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "Vegetables,Fruits,Pumpkins,Grapes,Herbs,Nersery Stock",
+    "notes": "100 acre,Organic,U-Pick"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.794189,
+      45.639397
+       ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "17",
+    "name": "Windslow Food Forest",
+    "URL": "http://winslowfoodforest.com/",
+    "street": "3499 SE Sherrett st",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97222",
+    "email": "winslowfoodforest@gmail.com",
+    "phone": "(616) 633-8345",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "heirloom vegetables, culinary herbs, berries, orchard fruits, & edible flowers",
+    "notes": "Organic, Permaculture"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.627298,
+      45.461438
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "18",
+    "name": "Birkeland Farm",
+    "URL": "http://www.birkelandfarm.com",
+    "street": "22280 S Beavercreek Rd",
+    "city": "Beavercreek",
+    "state": "OR",
+    "zip": "97004",
+    "email": "N/A",
+    "phone": "503.732.0265",
+    "indoor/outdoor": "",
+    "produce type": "Beef, Chicken, Lamb",
+    "notes": "70 acre, Cattle Ranch"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.526922,
+      45.287877
+       ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "19",
+    "name": "Seavey Loop Orchard",
+    "URL": "slofarm.wordpress.com",
+    "street": "N/A",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "N/A",
+    "email": "slo.farm@gmail.com",
+    "phone": "N/A",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "Vegetables",
+    "notes": "13 acres"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "20",
+    "name": "Agrarian Ales,LLC",
+    "URL": "https://www.agales.com/",
+    "street": "31115 Crossroads Ln W",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97408",
+    "email": "agrarianales@gmail.com",
+    "phone": "541-632-3803",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "hops",
+    "notes": "25 acre, Beer"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.127739,
+      44.189074
+       ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "21",
+    "name": "The Eugene Backyard Farmer",
+    "URL": "http://eugenebackyardfarmer.com/",
+    "street": "501 Washington St",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97401",
+    "email": "info@eugenebackyardfarmer.com",
+    "phone": "541-485-3276",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "Turkeys, Chickens, Vegetable seeds",
+    "notes": "Backyard Farm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.099825,
+      44.054032
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
     "id": "",
     "name": "",
     "URL": "",
@@ -238,7 +526,7 @@
     "coordinates": [
       0,
       0
-    ]
+       ]
   }
 },
 {
@@ -286,7 +574,55 @@
     "coordinates": [
       0,
       0
+       ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
     ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+  ]
   }
 }
   ]
