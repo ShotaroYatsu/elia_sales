@@ -105,7 +105,7 @@
         "URL": "http://www.47thavefarm.com/",
         "street": "6632 SE 47th Ave",
         "city": "Portland",
-        "state": "OR ",
+        "state": "OR",
         "zip": "97114",
         "email": "N/A",
         "phone": "N/A",
@@ -121,3 +121,5 @@
         ]
       }
     },
+  ]
+}
