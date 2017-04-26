@@ -98,4 +98,28 @@
       }
     }
   ]
-}
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "5",
+    "name": "47th Avenue Farm",
+    "URL": "http://www.47thavefarm.com/",
+    "street": "6632 SE 47th Ave",
+    "city": "Portland",
+    "state": "OR ",
+    "zip": "97114",
+    "email": "N/A",
+    "phone": "N/A",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "Vegetables,Herbs",
+    "notes": "CSA model, a few other locations"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.474776,
+      -122.614219
+    ]
+  }
+},
