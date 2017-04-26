@@ -121,29 +121,173 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "6",
-        "name": "Able Farms, Inc.",
-        "URL": "http://www.ablefarms.org/",
-        "street": "N/A",
-        "city": "Portland",
-        "state": "OR",
-        "zip": "N/A",
-        "email": "ablefarmspdx@gmail.com",
-        "phone": "(503)828-7458",
-        "indoor/outdoor": "Outdoor",
-        "produce type": "Vegetables, Fruits,Meats,Eggs",
-        "notes": "CSA, organic, GMO-free"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          00.000000,
-          00.000000
-        ]
+{
+  "type": "Feature",
+  "properties": {
+    "id": "6",
+    "name": "Able Farms, Inc.",
+    "URL": "http://www.ablefarms.org/",
+    "street": "N/A",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "N/A",
+    "email": "ablefarmspdx@gmail.com",
+    "phone": "(503)828-7458",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "Vegetables, Fruits,Meats,Eggs",
+    "notes": "CSA, organic, GMO-free,Affinity for Japan"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+ ]
       }
-    }
+    },
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "7",
+    "name": "Love Farm Organics",
+    "URL": "https://www.lovefarmorganics.com/",
+    "street": "46125 NW Hillside Road",
+    "city": "Forest Grove",
+    "state": "OR",
+    "zip": "97116",
+    "email": "lovefarmorganics@gmail.com",
+    "phone": "(503) 515-9939",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "Vegetables,Fruits,Herbs",
+    "notes": "Family-owned,Organic,CSA"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.152891,
+      45.568350
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "8",
+    "name": "South Barlow Berries",
+    "URL": "www.southbarlowberries.com/",
+    "street": "29190 S Barlow Rd",
+    "city": "Canby",
+    "state": "OR",
+    "zip": "97013",
+    "email": "N/A",
+    "phone": "(503) 266-3193",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "Berries(Strawberries,Blueberries,Rasperries,etc.",
+    "notes": "Family-owned,U-pick farm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.722133,
+      45.186721
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "9",
+    "name": "Rosse Posse Acres, Inc.",
+    "URL": "http://www.rosseposseacres.com/",
+    "street": "32690 S. Mathias Rd",
+    "city": "Molalla",
+    "state": "OR",
+    "zip": "97038",
+    "email": "alan@rosseposseacres.com",
+    "phone": "(503)829-7107",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "Elk meat",
+    "notes": "Also a petting zoo,52-acre"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.569259,
+      45.133446
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+}
   ]
 }
