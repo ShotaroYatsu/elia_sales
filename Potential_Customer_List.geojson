@@ -508,122 +508,698 @@
 {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "22",
+    "name": "Groundwork Organics",
+    "URL": "https://www.groundworkorganics.com",
+    "street": "PO BOX 42292 EUGENE",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97404",
+    "email": "GROUNDWORKORGANICS@GMAIL.COM",
+    "phone": "(541) 998-0900",
+    "indoor/outdoor": "outdoor",
+    "produce type": "fruits,vegetables",
+    "notes": "Organic"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -123.131471,
+      44.099557
        ]
   }
 },
 {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "23",
+    "name": "Small Is Beautiful Farmstand",
+    "URL": "http://smallisbeautifulfarmstand.weebly.com/",
+    "street": "1200 E. Beacon Dr",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97404",
+    "email": "fccf@efn.org",
+    "phone": "N/A",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,fruits,eggs,raw cow milk",
+    "notes": "organic"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -123.126003,
+      44.128779
     ]
   }
 },
 {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
+    "id": "24",
+    "name": "Riverbrorok Farm",
+    "URL": "https://www.facebook.com/pages/Riverbrook-Farm",
+    "street": "1850 E Beacon Dr",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97404",
+    "email": "N/A",
+    "phone": "(541) 688-1534",
+    "indoor/outdoor": "outdoor",
+    "produce type": "berries(strawberries,raspberries),cherries",
     "notes": ""
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -123.118059,
+      44.125158
        ]
   }
 },
 {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "25",
+    "name": "Working Hands Farm",
+    "URL": "https://workinghandsfarm.com/",
+    "street": "7705 SW River Rd",
+    "city": "Hillsboro",
+    "state": "OR",
+    "zip": "97123",
+    "email": "workinghandsfarm@gmail.com",
+    "phone": "N/A",
+    "indoor/outdoor": "outdoor",
+    "produce type": "organic vegetables & fruits,100% grass fed beef, pastured pork, organic eggs",
+    "notes": "CSA"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -122.936300,
+      45.464334
     ]
   }
 },
 {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "26",
+    "name": "Flying Coyote Farm",
+    "URL": "http://www.fromfieldtofeast.com/",
+    "street": "19779 SE Langensand Rd",
+    "city": "Sandy",
+    "state": "OR",
+    "zip": "97055",
+    "email": "lyingcoyotefarm@gmail.com",
+    "phone": "(503) 668-8624",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables, fruits",
+    "notes": "mainly organic, "
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -122.250926,
+      45.380753
   ]
   }
-}
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "27",
+    "name": "Cully Neighborhood Farm",
+    "URL": "https://cullyneighborhoodfarm.com/",
+    "street": "N/A",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "N/A",
+    "email": "matt@cullyneighborhoodfarm.com",
+    "phone": "(503) 310-5766",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "vegetables,herbs",
+    "notes": "one acre urban farm"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "28",
+    "name": "Kookoolan Farms",
+    "URL": "https://www.kookoolanfarms.com/",
+    "street": "15713 Highway 47",
+    "city": "Yamhill",
+    "state": "OR",
+    "zip": "97148",
+    "email": "kookoolan@gmail.com",
+    "phone": "503-730-7535",
+    "indoor/outdoor": "outdoor",
+    "produce type": "chickens, cattles, lambs,",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.184421,
+      45.330233
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "29",
+    "name": "Farmer Gene's Bees",
+    "URL": "farmergenes.com",
+    "street": "15110 NW Fawnlily Dr",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97229",
+    "email": "N/A",
+    "phone": "(503) 333-3166",
+    "indoor/outdoor": "outdoor",
+    "produce type": "honey",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.832939,
+      45.563137
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "30",
+    "name": "Springtail Farm",
+    "URL": "http://springtailfarm.com/",
+    "street": "6442 SE 70th Ave",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97206 ",
+    "email": "springtailfarm@gmail.com",
+    "phone": "(503) 528-6458",
+    "indoor/outdoor": "outdoor",
+    "produce type": "herbs,vegetables",
+    "notes": "CSA"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.591104,
+      45.476027
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "31",
+    "name": "Fox and Bear Urban Farm",
+    "URL": "http://foxandbearurbanfarm.com/",
+    "street": "10524 NE Morris St",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97220",
+    "email": "katie@foxandbearurbanfarm.com",
+    "phone": "N/A",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,perennial fruits,herbs",
+    "notes": "1/4 acre micro-farm in the city"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      00.000000,
+      00.000000
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "32",
+    "name": "The Urban Acre Homestead",
+    "URL": "https://theurbanacrehomestead.wordpress.com",
+    "street": "2300 NE 132nd Ave",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97230",
+    "email": "N/A",
+    "phone": "N/A",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,fruits,tea,duck eggs,herbs",
+    "notes": "one acre"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.526504,
+      45.540234
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "33",
+    "name": "Helvetia Herbary",
+    "URL": "https://www.facebook.com/helvetiaherbary/",
+    "street": "Skyline & Logie Trail area",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97231",
+    "email": "helvetiaherbary@gmail.com",
+    "phone": "(503) 803-8418",
+    "indoor/outdoor": "outdoor",
+    "produce type": "tea,herbs",
+    "notes": "no exact address"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.8958,
+      45.63996
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "34",
+    "name": "Columbia Farms U-Pick",
+    "URL": "http://www.columbiafarmsu-pick.com/",
+    "street": "21024 NW Gillihan Rd",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97231",
+    "email": "N/A",
+    "phone": "(503) 621-3909",
+    "indoor/outdoor": "outdoor",
+    "produce type": "berries,flowers,pumpkins",
+    "notes": "80 acres,u-pick"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.780788,
+      45.674330
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "35",
+    "name": "Krugers Farm Market",
+    "URL": "http://krugersfarm.com/",
+    "street": "17100 NW Sauvie Island Rd",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97231",
+    "email": "info@krugersfarm.com",
+    "phone": "503-621-3489",
+    "indoor/outdoor": "",
+    "produce type": "berries,pumpkins,pickling cucumbers",
+    "notes": "150 acres,u-pick"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.823642,
+      45.647753
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "36",
+    "name": "Tilth Alliance",
+    "URL": "http://www.seattletilth.org/",
+    "street": " 4649 Sunnyside Avenue N Suite 100",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98103",
+    "email": "info@tilthalliance.org",
+    "phone": "(206) 633-0451",
+    "indoor/outdoor": "outdoor & indoor",
+    "produce type": "vegetables,herbs,fruits",
+    "notes": "CSA,also offer training for people interested in farming,community programs"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.331373,
+      47.663947
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "37",
+    "name": "Local Roots Farm",
+    "URL": "http://localrootsfarm.com/",
+    "street": "11707 262nd Ave NE",
+    "city": "Duvall",
+    "state": "WA",
+    "zip": "98019",
+    "email": "jason@localrootsfarm.com",
+    "phone": "(206)679-9512",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables",
+    "notes": "about 10 acres,CSA,farm stand,family-run"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.988992,
+      47.702012
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "38",
+    "name": "Jubilee Farm",
+    "URL": "https://jubileefarm.org",
+    "street": "229 W Snoqualmie River Rd NE",
+    "city": "Carnation",
+    "state": "WA",
+    "zip": "98014",
+    "email": "jubileefarm@hotmail.com",
+    "phone": "425-240-4929",
+    "indoor/outdoor": "outdoor",
+    "produce type": "fruits,vegetables,meat(beef,pork)",
+    "notes": "CSA,organic"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.933650,
+      47.610821
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "39",
+    "name": "Kurtwood Farms",
+    "URL": "www.kurtwoodfarms.com",
+    "street": "18409 Beall Rd SW",
+    "city": "Vashon",
+    "state": "WA",
+    "zip": "98070",
+    "email": "kurt@kurtwoodfarms.com",
+    "phone": "(206) 696-0989",
+    "indoor/outdoor": "indoor",
+    "produce type": "cheese from cows",
+    "notes": "13 acres"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.452144,
+      47.439311
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "40",
+    "name": "Viva Farms",
+    "URL": "http://www.vivafarms.org",
+    "street": "15400 Ovenell Rd",
+    "city": "Mount Vernon",
+    "state": "WA",
+    "zip": "98273",
+    "email": "info@vivafarms.org",
+    "phone": "(360) 969-7191",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,fruits",
+    "notes": "45 acres,CSA,subleases to new farmers who want to launch their own business"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.413282,
+      48.457575
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "41",
+    "name": "FIRST LIGHT FARM",
+    "URL": "upickseattle.com",
+    "street": "27307 NE 100 St.",
+    "city": "Carnation",
+    "state": "WA",
+    "zip": "98014",
+    "email": "N/A",
+    "phone": "(206) 719-8602",
+    "indoor/outdoor": "",
+    "produce type": "vegetables,fruits",
+    "notes": "6 care,u-pick,CSA"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.112325,
+      47.689283
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "42",
+    "name": "Tani Creek Farm",
+    "URL": "http://www.tanicreekfarm.com",
+    "street": "3377 Tani creek Rd",
+    "city": "Bainbridge Island",
+    "state": "WA",
+    "zip": "98110",
+    "email": "tanicreekfarm@gmail.com",
+    "phone": "(206) 842 3217",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "vegetables,fruits,flowers",
+    "notes": "organic,CSA"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.530990,
+      47.593633
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "43",
+    "name": "Purple Scent Lavender",
+    "URL": "http://www.purplescentlavender.com/",
+    "street": "5400 Chico Way NW",
+    "city": "Bremerton",
+    "state": "WA",
+    "zip": "98312",
+    "email": "N/A",
+    "phone": "360-308-9867",
+    "indoor/outdoor": "outdoor",
+    "produce type": "lavender",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.710426,
+      47.612508
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "44",
+    "name": "Magic Bean Urban Farm",
+    "URL": "http://www.magicbean.org",
+    "street": "4244 NE 125th St",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98125",
+    "email": "N/A",
+    "phone": "206-402-9181",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,herbs",
+    "notes": "CSA"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.281366,
+      47.719299
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "45",
+    "name": "Fox Dog Farm",
+    "URL": "http://www.foxdogfarm.com/",
+    "street": "26096 Miller Bay Rd",
+    "city": "Kingston",
+    "state": "WA",
+    "zip": "98346",
+    "email": "farmer@foxdogfarm.com",
+    "phone": "360-297-7135",
+    "indoor/outdoor": "outdoor,indoor",
+    "produce type": "eggs,vegetables,herbs,milk goats",
+    "notes": "family owned,CSA"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.538764,
+      47.801014
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "46",
+    "name": "Early Bird Farm",
+    "URL": "http://www.earlybirdfarmer.com/",
+    "street": "4220 Gay Rd E",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98443",
+    "email": "earlybirdfarmer@gmail.com",
+    "phone": "(253) 426-9846",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,fruits,berries,chickens,eggs",
+    "notes": "11 acres,CSA,U-Pick"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.371694,
+      47.224355
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "47",
+    "name": "Zestful Gardens",
+    "URL": "http://zestfulgardens.org/",
+    "street": "5102 40th Street East",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98443",
+    "email": "info@zestfulgardens.org ",
+    "phone": "(253) 232-0811",
+    "indoor/outdoor": "Outdoor",
+    "produce type": "vegetables,fruits,meat,eggs,herbs",
+    "notes": "35-acre,CSA,organic"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.360639,
+      47.219081
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "48",
+    "name": "Acres In Zion",
+    "URL": "http://www.zionbeef.com/",
+    "street": "41633 236th SE",
+    "city": "Enumclaw",
+    "state": "WA",
+    "zip": "98022",
+    "email": "ericrobb@ZionBeef.com ",
+    "phone": "(253) 736-4848",
+    "indoor/outdoor": "outdoor/indoor",
+    "produce type": "grassfed beef",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.026832,
+      47.227570
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "49",
+    "name": "Willie Green's Organic Farm",
+    "URL": "http://www.williegreens.org/",
+    "street": "19501 Tualco Road",
+    "city": "Monroe",
+    "state": "WA",
+    "zip": "98272",
+    "email": "info@williegreens.org",
+    "phone": "(360) 453-7030",
+    "indoor/outdoor": "outdoor",
+    "produce type": "berries",
+    "notes": "65-acre,U-pick"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.984496,
+      47.821134
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "50",
+    "name": "Duris Cucumber Farm",
+    "URL": "http://www.duriscucumberfarm.com/",
+    "street": "6012 44th St E",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98371",
+    "email": "info@duriscucumberfarm.com",
+    "phone": "(253) 922-7635",
+    "indoor/outdoor": "outdoor",
+    "produce type": "picking cucumber,beans,zucchinis,strawberries",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.348977,
+      47.215328
+    ]
+  }
+}   
   ]
 }
