@@ -1468,96 +1468,96 @@
     {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
+    "id": "62",
+    "name": "Rocky Ridge Ranch",
+    "URL": "http://www.rockyridgeranchspokane.com/",
+    "street": "36196 Oehlschlaeger Rd. N.",
+    "city": "Reardan",
+    "state": "WA",
+    "zip": "99029",
+    "email": "info@rockyridgeranchspokane.com",
+    "phone": "(509)953-0905",
     "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "produce type": "poultry,pastured pork,natural beef,natural lamb",
+    "notes": "CSA"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -117.863872,
+      47.779411
     ]
   }
 },
     {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "63",
+    "name": "Icebox Flats Farm",
+    "URL": "www.iceboxflatsfarm.com",
+    "street": "3661 C Deep Lake Boundary Rd",
+    "city": "Colville",
+    "state": "WA",
+    "zip": "99114",
+    "email": "sam@iceboxflatsfarm.com",
+    "phone": "(509) 563-4536",
+    "indoor/outdoor": "outdoor",
+    "produce type": "cattle",
+    "notes": "grass fed"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -117.592152,
+      48.956953
     ]
   }
 },
     {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "64",
+    "name": "Dahlin Farm",
+    "URL": "dahlinfarm.com",
+    "street": "551 Garrett Road ",
+    "city": "Newport",
+    "state": "WA",
+    "zip": "99156",
+    "email": "dahlinfarm@gmail.com",
+    "phone": "509-447-4558",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables",
+    "notes": "CSA"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -117.051664,
+      48.045913
     ]
   }
 },
     {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "65",
+    "name": "Elithorp Farm",
+    "URL": "http://www.elithorpfarm.com/",
+    "street": "N/A",
+    "city": "Deer Park",
+    "state": "WA",
+    "zip": "99006",
+    "email": "N/A",
+    "phone": "(509) 276-6647",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables",
+    "notes": "17 acres,CSA"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -117.476891,
+      47.954338
     ]
   }
 },
