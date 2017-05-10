@@ -1564,7 +1564,463 @@
     {
   "type": "Feature",
   "properties": {
-    "id": "",
+    "id": "66",
+    "name": "Maya's Farm",
+    "URL": "http://mayasfarm.com/",
+    "street": "6650 South 32nd St",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85042",
+    "email": "N/A",
+    "phone": "480.236.7097",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,herbs,eggs",
+    "notes": "7 acres,organic,CSA"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.012586,
+      33.386594
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "67",
+    "name": "The Simple Farm",
+    "URL": "http://thesimplefarm.net/",
+    "street": "9080 E Cactus Rd",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "zip": "85260",
+    "email": "Hello@thesimplefarm.net",
+    "phone": "N/A",
+    "indoor/outdoor": "outdoor",
+    "produce type": "goat milk",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.885188,
+      33.597424
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "68",
+    "name": "The Farm at Agritopia",
+    "URL": "http://thefarmatagritopia.com/",
+    "street": "3000 E Ray Rd",
+    "city": "Gilbert",
+    "state": "AZ",
+    "zip": "85296",
+    "email": "katie@agritopia.com",
+    "phone": "(480) 988-1238",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables, fruits",
+    "notes": "organic,CSA"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.726057,
+      33.321824
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "69",
+    "name": "Painted Desert Seed Company",
+    "URL": "http://painted-desert.com/",
+    "street": "5846 S Avondale Blvd No 1",
+    "city": "Tolleson",
+    "state": "AZ",
+    "zip": "85353",
+    "email": "N/A",
+    "phone": "(602) 702-6474",
+    "indoor/outdoor": "outdoor",
+    "produce type": "Heirloom seeds",
+    "notes": "seed farming,open-pollinated,non-hybrid seeds."
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.306483,
+      33.392094
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "70",
+    "name": "Farmyard",
+    "URL": "http://www.myfarmyard.com/",
+    "street": "4056 E Weldon Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85018",
+    "email": "farmers@myfarmyard.com",
+    "phone": "602-954-1440",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,herbs,fruits",
+    "notes": "CSA"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.992838,
+      33.490664
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "71",
+    "name": "Grandma's Farm",
+    "URL": "www.farmingwithgrandma.com",
+    "street": "8888 S 19th Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85041",
+    "email": "gfphxaz@yahoo.com",
+    "phone": "(602) 237-3319",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,herbs,fruits,eggs",
+    "notes": "15 acres,organic"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.102633,
+      33.365714
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "72",
+    "name": "Horny Toad Farm",
+    "URL": "http://www.hornytoadfarm.com/",
+    "street": "2134 South 16th Avenue",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85007",
+    "email": "stellahornytoad@gmail.com",
+    "phone": "480 255-0604",
+    "indoor/outdoor": "outdoor",
+    "produce type": "fruits,vegetables",
+    "notes": "CSA,organic"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.093821,
+      33.428007
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "73",
+    "name": "South Winds Farm",
+    "URL": "https://southwindsfarm.org",
+    "street": "2404 E Gingerbread Ln",
+    "city": "Benson",
+    "state": "AZ",
+    "zip": "85602",
+    "email": "joe@southwindsfarm.org",
+    "phone": "(520) 909-4903",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,fruits",
+    "notes": "CSA,organic"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.224229,
+      31.949066
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "74",
+    "name": "Top Knot Farms",
+    "URL": "http://topknotfarms.com/",
+    "street": "4502 N 1st Ave",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85718",
+    "email": "info@topknotfarms.com",
+    "phone": "N/A",
+    "indoor/outdoor": "outdoor",
+    "produce type": "poultry,eggs",
+    "notes": "12 acres"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.961099,
+      32.289803
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "75",
+    "name": "MoLovin Farm",
+    "URL": "https://www.molovinfarm.com",
+    "street": "21205 South Lindsay Road",
+    "city": "Gilbert",
+    "state": "AZ",
+    "zip": "85298",
+    "email": "dianamolovin@gmail.com",
+    "phone": "480-797-8416",
+    "indoor/outdoor": "outdoor",
+    "produce type": "fruits,vegetables",
+    "notes": "3.5 acre,organic"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.772298,
+      33.255491
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "76",
+    "name": "Steadfast Farm",
+    "URL": "http://www.steadfast-farm.com/",
+    "street": "22601 E. Cloud Rd.",
+    "city": "Queen Creek",
+    "state": "AZ",
+    "zip": "85142",
+    "email": "info@steadfast-farm.com",
+    "phone": "(480) 466-4446",
+    "indoor/outdoor": "outdoor",
+    "produce type": "fruits,vegetables",
+    "notes": "2 acres,organic,CSA"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.596226,
+      33.224511
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "77",
+    "name": "AZ Fine Swine",
+    "URL": "http://azfineswine.com/",
+    "street": "8353 E. Warner Rd.",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85212",
+    "email": "info@azfineswine.com",
+    "phone": "480-861-0612",
+    "indoor/outdoor": "outdoor",
+    "produce type": "pork",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.658453,
+      33.335865
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "78",
+    "name": "Together Farms",
+    "URL": "http://www.together-farms.com/",
+    "street": "12634 N. LAVERN LANE",
+    "city": "Maricopa",
+    "state": "AZ",
+    "zip": "85139",
+    "email": "togetherfarmsaz@gmail.com",
+    "phone": "480-280-3110",
+    "indoor/outdoor": "outdoor",
+    "produce type": "goat milk",
+    "notes": "makes soap"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.113912,
+      32.994736
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "79",
+    "name": "Agave Farms",
+    "URL": "http://agave-farms.com/",
+    "street": "4300 N. Central Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85012",
+    "email": "info@agave-farms.com",
+    "phone": "602-374-6553",
+    "indoor/outdoor": "outdoor",
+    "produce type": "herbs,vegetables,shrubs",
+    "notes": "17 acres"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.073902,
+      33.498703
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "80",
+    "name": "Off the Hook Tilapia",
+    "URL": "http://offthehooktilapia.com/",
+    "street": "10906 W Miami Ave",
+    "city": "Tolleson",
+    "state": "AZ",
+    "zip": "85353",
+    "email": "N/A",
+    "phone": "623-643-9300",
+    "indoor/outdoor": "indoor",
+    "produce type": "Tilapia",
+    "notes": "hormone & antibiotic free"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.293923,
+      33.417550
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "81",
+    "name": "Queen Creek Olive Mill",
+    "URL": "https://www.queencreekolivemill.com",
+    "street": "25062 S Meridian Rd",
+    "city": "Queen Creek",
+    "state": "AZ",
+    "zip": "85142",
+    "email": "info@queencreekolivemill.com",
+    "phone": " 480-888-9290",
+    "indoor/outdoor": "outdoor",
+    "produce type": "olives",
+    "notes": "100 acres,family owned"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.583239,
+      33.221019
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "82",
+    "name": "Ramona Farms",
+    "URL": "http://www.ramonafarms.com/",
+    "street": "PO Box 2195",
+    "city": "Sacaton",
+    "state": "AZ",
+    "zip": "85147",
+    "email": "info@ramonafarms.com",
+    "phone": "520.418.0900",
+    "indoor/outdoor": "outdoor",
+    "produce type": "beans,corn,wheat",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.739299,
+      33.076723
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "83",
+    "name": "Arizona Beer Beef LLC",
+    "URL": "http://www.arizonabeerbeef.com/",
+    "street": "10575 N 114th St, Ste 10fla",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "zip": "85259",
+    "email": "N/A",
+    "phone": "(480) 314-9880",
+    "indoor/outdoor": "outdoor",
+    "produce type": "beef",
+    "notes": "all natural,grass-fed"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.832160,
+      33.581827
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "84",
+    "name": "AZ Queen Bee",
+    "URL": "http://www.azqueenbee.com/",
+    "street": "5425 E Kathleen Road",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "zip": "85254",
+    "email": "Emily@AZQueenBee.com ",
+    "phone": "(602)881-9877",
+    "indoor/outdoor": "outdoor",
+    "produce type": "honey",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.964195,
+      33.630330
+    ]
+  }
+},
+    {
+  "type": "Feature",
+  "properties": {
+    "id": "85",
     "name": "",
     "URL": "",
     "street": "",
@@ -1777,7 +2233,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -1801,7 +2257,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -1825,7 +2281,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -1849,7 +2305,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -1873,7 +2329,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -1897,7 +2353,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -1921,7 +2377,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -1945,7 +2401,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -1969,7 +2425,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -1993,7 +2449,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -2017,7 +2473,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -2041,7 +2497,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -2065,7 +2521,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -2089,7 +2545,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -2113,7 +2569,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -2137,7 +2593,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -2161,7 +2617,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -2185,7 +2641,7 @@
     ]
   }
 },
-    {
+     {
   "type": "Feature",
   "properties": {
     "id": "",
@@ -2209,7 +2665,343 @@
     ]
   }
 },
-    {
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "",
+    "name": "",
+    "URL": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "email": "",
+    "phone": "",
+    "indoor/outdoor": "",
+    "produce type": "",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  }
+},
+     {
   "type": "Feature",
   "properties": {
     "id": "",
