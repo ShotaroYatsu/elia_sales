@@ -2021,239 +2021,239 @@
   "type": "Feature",
   "properties": {
     "id": "85",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "name": "Chino Valley",
+    "URL": "http://chinovalleyfarms.com/",
+    "street": "2572 North Road One East",
+    "city": "Chino Valley",
+    "state": "AZ",
+    "zip": "86323",
+    "email": "cvfarms@cableone.net",
+    "phone": "928-636-6131",
+    "indoor/outdoor": "outdoor",
+    "produce type": "tomatoes,fruits,vegatbles",
+    "notes": "12 acres,started with tomatoes"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -100.351959,
+      37.285490
     ]
   }
 },
     {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "86",
+    "name": "Whipstone",
+    "URL": "http://whipstone.com/",
+    "street": "21640 N. Juniper Ridge Rd.",
+    "city": "Paulden",
+    "state": "AZ",
+    "zip": "86334",
+    "email": "N/A",
+    "phone": "928.636.6209",
+    "indoor/outdoor": "outdoor",
+    "produce type": "fuits,vegetables",
+    "notes": "15 acres,CSA"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -112.493933,
+      34.858321
     ]
   }
 },
     {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
+    "id": "87",
+    "name": "Ash Creek Ranch",
+    "URL": "http://www.ashcreekranches.com/",
+    "street": "3700 South Cherry Road",
+    "city": "Dewey",
+    "state": "AZ",
+    "zip": "86327",
+    "email": "N/A",
+    "phone": "(928) 925-8721",
+    "indoor/outdoor": "outdoor",
+    "produce type": "Black Angus Cattle",
     "notes": ""
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -89.917049,
+      35.047529
     ]
   }
 },
     {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "88",
+    "name": "J.R. Organics",
+    "URL": "http://www.jrorganicsfarm.com",
+    "street": "31030 Rodriguez Road",
+    "city": "Escondido",
+    "state": "CA",
+    "zip": "92026",
+    "email": "jemarrero@jrorganicsfarm.com",
+    "phone": "760-453-4144",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables",
+    "notes": "CSA"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -117.124736,
+      33.278540
     ]
   }
 },
     {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "89",
+    "name": "La Vigne Organics",
+    "URL": "http://www.lavignefruits.com/",
+    "street": "PO Box 2890",
+    "city": "Fallbrook",
+    "state": "CA",
+    "zip": "92088",
+    "email": "info@lavignefruits.com",
+    "phone": "760-723-9997",
+    "indoor/outdoor": "outdoor",
+    "produce type": "exotic citrus fruits,specialty herbs",
+    "notes": "organic"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -117.239583,
+      33.389947
     ]
   }
 },
     {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "90",
+    "name": "Seabreeze Organic Farm",
+    "URL": "http://www.seabreezed.com/",
+    "street": "3909 Arroyo Sorrento Road",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92130",
+    "email": "N/A",
+    "phone": "858.481.0209",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,fruits",
+    "notes": "CSA,organic"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -117.231020,
+      32.926766
     ]
   }
 },
     {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "91",
+    "name": "Hidden Haven Farms",
+    "URL": "http://www.hiddenhavenfarms.com/",
+    "street": "18540 West Boundary Truck Trail",
+    "city": "Jamul",
+    "state": "CA",
+    "zip": "91935",
+    "email": "info@hiddenhavenfarms.com",
+    "phone": "619-445-4057",
+    "indoor/outdoor": "outdoor",
+    "produce type": "fruits,vegetables",
+    "notes": "u-pick,community programs"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -116.750878,
+      32.766316
     ]
   }
 },
     {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "92",
+    "name": "SonRise Ranch",
+    "URL": "http://www.son-riseranch.com/",
+    "street": "8385 Miramar Mall",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92121",
+    "email": "N/A",
+    "phone": "858 909 0945",
+    "indoor/outdoor": "outdoor",
+    "produce type": "pork,free-range chicken",
+    "notes": "antibiotic free,organic fed"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -117.181743,
+      32.879652
     ]
   }
 },
     {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "93",
+    "name": "Kare Farms",
+    "URL": "http://www.karefarms.com",
+    "street": "9158 Rebecca Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92123",
+    "email": "N/A",
+    "phone": "(858) 775-8587",
+    "indoor/outdoor": "outdoor",
+    "produce type": "fruits,herbs,vegetables",
+    "notes": "urban farm"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -117.129530,
+      32.792735
     ]
   }
 },
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
+    "id": "94",
+    "name": "Connelly Gardens",
+    "URL": "http://www.connellygardens.com",
+    "street": "252 Steffy Rd",
+    "city": "Ramona",
+    "state": "CA",
+    "zip": "92065",
     "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
+    "phone": "(760) 535-2212",
+    "indoor/outdoor": "indoor/outdoor",
+    "produce type": "vegetables,micro greens,herbs",
     "notes": ""
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -116.843304,
+      33.032048
     ]
   }
 },
