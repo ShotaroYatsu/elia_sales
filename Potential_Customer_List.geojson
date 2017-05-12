@@ -2243,7 +2243,7 @@
     "city": "Ramona",
     "state": "CA",
     "zip": "92065",
-    "email": "",
+    "email": "N/A",
     "phone": "(760) 535-2212",
     "indoor/outdoor": "indoor/outdoor",
     "produce type": "vegetables,micro greens,herbs",
@@ -2260,17 +2260,65 @@
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
+    "id": "95",
+    "name": "Tzaddik Farm",
+    "URL": "https://www.facebook.com/tzaddikfarm/",
+    "street": "21986 Lyons Valley Rd",
+    "city": "Alpine",
+    "state": "CA",
+    "zip": "91901",
+    "email": "tzaddik@att.net",
+    "phone": "(619) 445-1610",
+    "indoor/outdoor": "outdoor/indoor",
+    "produce type": "poultry",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.676416,
+      32.751567
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "96",
+    "name": "MAZZEI NURSERY & SEED",
+    "URL": "https://www.facebook.com/pages/Mazzei-Nursery-Inc/176323325724637",
+    "street": "308 E. Jensen Ave.",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93706",
+    "email": "g.colburn10@gmail.com",
+    "phone": "559-233-8952",
+    "indoor/outdoor": "",
+    "produce type": "vegetable translplants",
+    "notes": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.808496,
+      36.706456
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "96",
+    "name": "Nyia Yi Farms",
+    "URL": "https://www.facebook.com/NyiaYiFarms/",
     "street": "",
     "city": "",
     "state": "",
     "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
+    "email": "nyiayi_farms@yahoo.com",
+    "phone": "(209) 981-8210",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables",
     "notes": ""
   },
   "geometry": {
@@ -2284,17 +2332,41 @@
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
+    "id": "97",
+    "name": "Harvest Fields",
+    "URL": "https://harvestfields.farm/",
+    "street": "5397 E Olive Ave",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93727",
+    "email": "N/A",
+    "phone": "559.512.0086",
+    "indoor/outdoor": "indoor/outdoor",
+    "produce type": "vegetables,fruits,chickens",
+    "notes": "13 acres"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.711469,
+      36.759327
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "98",
+    "name": "Mary's Turkey",
+    "URL": "http://marysturkeys.com/",
     "street": "",
-    "city": "",
-    "state": "",
+    "city": "Joaquin Valley",
+    "state": "CA",
     "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
+    "email": "mary@marysturkeys.com",
+    "phone": "(844)444-6279",
+    "indoor/outdoor": "outdoor",
+    "produce type": "Turkey",
     "notes": ""
   },
   "geometry": {
@@ -2308,17 +2380,17 @@
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
+    "id": "99",
+    "name": "Casa Rosa Farms",
+    "URL": "http://www.casarosafarm.com/",
+    "street": "N/A",
+    "city": "Woodland",
+    "state": "CA",
+    "zip": "95776",
+    "email": "N/A",
+    "phone": "N/A",
+    "indoor/outdoor": "outdoor",
+    "produce type": "cattle,lamb,duck,chicken,olive oil",
     "notes": ""
   },
   "geometry": {
@@ -2332,17 +2404,89 @@
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
+    "id": "100",
+    "name": "Suzie's Farm",
+    "URL": "http://suziesfarm.com/",
+    "street": "2570 Sunset Avenue",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92154",
+    "email": "N/A",
+    "phone": "(619) 662-1780",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,herbs,fruits",
+    "notes": "70 acres,organic"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.079551,
+      32.559051
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "101",
+    "name": "Eatwell Farm",
+    "URL": "http://www.eatwell.com/",
+    "street": "835 Sievers Rd",
+    "city": "Dixon",
+    "state": "CA",
+    "zip": "95620",
+    "email": "organic@eatwell.com",
+    "phone": "(707) 999-1150",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,chicken",
+    "notes": "105 acres,organic,CSA"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.872751,
+      38.489881
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "102",
+    "name": "The Natural Trading Co.",
+    "URL": "https://naturaltradingco.com/",
+    "street": "5841 Fruitvale Rd",
+    "city": "Newcastle",
+    "state": "CA",
+    "zip": "95658",
+    "email": "N/A",
+    "phone": "(916) 409-9440",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,fruits,eggs",
+    "notes": "CSA"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.193680,
+      38.914086
+    ]
+  }
+},
+     {
+  "type": "Feature",
+  "properties": {
+    "id": "103",
+    "name": "Nevermore Farm",
+    "URL": "http://www.nevermorefarm.com/",
+    "street": "N/A",
+    "city": "Arbuckle",
+    "state": "CA",
+    "zip": "N/A",
+    "email": "nevermorefarm@gmail.com",
+    "phone": "530-574-3597",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables",
     "notes": ""
   },
   "geometry": {
@@ -2356,535 +2500,391 @@
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "104",
+    "name": "Heavy Dirt Farm",
+    "URL": "http://heavydirtfarm.weebly.com/",
+    "street": "24830 Co Rd 95",
+    "city": "Davis",
+    "state": "CA",
+    "zip": "95616",
+    "email": "heavydirtcsa@gmail.com",
+    "phone": "N/A",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables",
+    "notes": "CSA"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -92.294866,
+      37.493586
     ]
   }
 },
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
+    "id": "105",
+    "name": "Sola Bee",
+    "URL": "http://www.solabeefarms.com/",
+    "street": "23011 Co Rd 103",
+    "city": "Woodland",
+    "state": "CA",
+    "zip": "95776",
+    "email": "info@solabeefarms.com",
+    "phone": "(707)794-0302",
+    "indoor/outdoor": "outdoor",
+    "produce type": "honey",
     "notes": ""
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -121.711360,
+      38.605581
     ]
   }
 },
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "106",
+    "name": "Del Rio Botanical",
+    "URL": "http://delriobotanical.com/site_main.html",
+    "street": "20030 Old River Rd",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95691",
+    "email": "delrioseed@hughes.net",
+    "phone": "(916)919-1843",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,seeds",
+    "notes": "68 acres,CSA"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -121.599008,
+      38.646037
     ]
   }
 },
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
+    "id": "107",
+    "name": "Hog and Dogs Ranch/Produce ",
+    "URL": "https://www.facebook.com/HogandDogsRanch/",
+    "street": "12637 Sharon Bee Lane",
+    "city": "Herald",
+    "state": "CA",
+    "zip": "95638",
+    "email": "freerangeangusbeef@gmail",
+    "phone": "(916) 688-0913",
+    "indoor/outdoor": "outdoor",
+    "produce type": "hogs,beef",
     "notes": ""
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -121.154055,
+      38.299016
     ]
   }
 },
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "108",
+    "name": "Kingbird Farms ",
+    "URL": "www.kingbirdfarms.com",
+    "street": "PO Box 336",
+    "city": "Galt",
+    "state": "CA",
+    "zip": "95632",
+    "email": "adam@kingbirdfarms.com",
+    "phone": "(209)260-1066",
+    "indoor/outdoor": "outdoor",
+    "produce type": "eggs,vegetables,fruits",
+    "notes": "CSA"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -121.299949,
+      038.254637
     ]
   }
 },
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "109",
+    "name": "Farm Fresh to You",
+    "URL": "http://www.farmfreshtoyou.com/",
+    "street": "23800 State Highway 16",
+    "city": "Capay",
+    "state": "CA",
+    "zip": "95607",
+    "email": "contactus@farmfreshtoyou.com",
+    "phone": "800.796.6009",
+    "indoor/outdoor": "outdoor",
+    "produce type": "fruits,vegetables",
+    "notes": "CSA"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -122.070893,
+      38.706917
     ]
   }
 },
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "110",
+    "name": "Blue House Farm",
+    "URL": "https://bluehousefarm.com/",
+    "street": "5000 Pescadero Creek Road",
+    "city": "Pescadero",
+    "state": "CA",
+    "zip": "94060",
+    "email": "info@bluehousefarm.com",
+    "phone": "650-879-0704",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables",
+    "notes": "CSA"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -122.340321,
+      37.257541
     ]
   }
 },
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
+    "id": "111",
+    "name": "Prather Ranch Meat Co.",
+    "URL": "http://prmeatco.com/",
+    "street": "1 Ferry Building # 33",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94111",
+    "email": "info@prmeatco.com",
+    "phone": "415.391.0420",
+    "indoor/outdoor": "outdoor",
+    "produce type": "beef,pork,lamb",
     "notes": ""
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -122.399826,
+      37.794651
     ]
   }
 },
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "112",
+    "name": "Happy Child CSA",
+    "URL": "http://happychildcsa.com/",
+    "street": "P.O. Box 2110",
+    "city": "Brentwood",
+    "state": "CA",
+    "zip": "94513",
+    "email": "csa@froghollow.com",
+    "phone": "888.779.4511",
+    "indoor/outdoor": "outdoor",
+    "produce type": "fruits,vegetables",
+    "notes": "CSA"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -121.695786,
+      37.931868
     ]
   }
 },
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "113",
+    "name": "Cloverfield Farm",
+    "URL": "https://www.facebook.com/cloverfieldorganic/",
+    "street": "501 La Paloma Rd",
+    "city": "El Sobrante",
+    "state": "CA",
+    "zip": "94803",
+    "email": "cloverfield@gmail.com",
+    "phone": "(510) 381-1132",
+    "indoor/outdoor": "outdoor",
+    "produce type": "fruits,vegetables",
+    "notes": "organic"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -122.308668,
+      37.972404
     ]
   }
 },
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "114",
+    "name": "Tara Firma Farms",
+    "URL": "http://www.tarafirmafarms.com/",
+    "street": "3796 I Street Ext.",
+    "city": "Petaluma",
+    "state": "CA",
+    "zip": "94952",
+    "email": "N/A",
+    "phone": "(707)765-1202",
+    "indoor/outdoor": "outdoor",
+    "produce type": "beef,pork,chicken,eggs,turkey",
+    "notes": "CSA"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -122.632961,
+      38.193268
     ]
   }
 },
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "115",
+    "name": "Shooting Star Organic Farm",
+    "URL": "http://shootingstarorganicfarm.com/",
+    "street": "PO BOX 3087",
+    "city": "Fairfield",
+    "state": "CA",
+    "zip": "94533",
+    "email": "shootingstarorganic@gmail.com",
+    "phone": "707-207-0548",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables",
+    "notes": "15 acres"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -122.039966,
+      38.249358
     ]
   }
 },
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "116",
+    "name": "Olson Farms Producte",
+    "URL": "http://www.olsonfarmsproduce.com/",
+    "street": "4725 West Street",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94608",
+    "email": "earthworm12@gmail.com",
+    "phone": "(949) 547-0903",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,fruits,chickens,turkeys",
+    "notes": "7 acres"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -122.269791,
+      37.835949
     ]
   }
 },
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
+    "id": "117",
+    "name": "Green Skies Vertical Farm",
+    "URL": "http://gsvfarm.com/",
+    "street": "1004 Hearst Avenue",
+    "city": "Berkeley",
+    "state": "CA",
+    "zip": "94710",
+    "email": "N/A",
+    "phone": "(510) 978-1347",
     "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "produce type": "herbs,salad greens,microgreens",
+    "notes": "1/4 acre"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -122.294374,
+      37.869839
     ]
   }
 },
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "118",
+    "name": "Alemany Farm",
+    "URL": "http://www.alemanyfarm.org/",
+    "street": "700 Alemany Blvd",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94112",
+    "email": "community.gardeners@gmail.com",
+    "phone": "(415)568-1296",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,fruits",
+    "notes": "3.5 acres,organic"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -122.420591,
+      37.732228
     ]
   }
 },
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
+    "id": "119",
+    "name": "Fifth Crow Farm",
+    "URL": "http://fifthcrowfarm.com/",
+    "street": "3800 Cloverdale Rd.",
+    "city": "Pescadero",
+    "state": "CA",
+    "zip": "94060",
+    "email": "info@fifthcrowfarm.com",
+    "phone": "(831) 600-5452",
+    "indoor/outdoor": "outdoor",
+    "produce type": "vegetables,apples,pears,eggs",
+    "notes": "80 acres"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      0,
-      0
+      -122.357955,
+      37.229681
     ]
   }
 },
      {
   "type": "Feature",
   "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      0,
-      0
-    ]
-  }
-},
-     {
-  "type": "Feature",
-  "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      0,
-      0
-    ]
-  }
-},
-     {
-  "type": "Feature",
-  "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      0,
-      0
-    ]
-  }
-},
-     {
-  "type": "Feature",
-  "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      0,
-      0
-    ]
-  }
-},
-     {
-  "type": "Feature",
-  "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      0,
-      0
-    ]
-  }
-},
-     {
-  "type": "Feature",
-  "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      0,
-      0
-    ]
-  }
-},
-     {
-  "type": "Feature",
-  "properties": {
-    "id": "",
+    "id": "120",
     "name": "",
     "URL": "",
     "street": "",
