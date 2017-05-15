@@ -3026,28 +3026,29 @@
   }
 },
     {
-  "type": "Feature",
-  "properties": {
-    "id": "",
-    "name": "",
-    "URL": "",
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "email": "",
-    "phone": "",
-    "indoor/outdoor": "",
-    "produce type": "",
-    "notes": ""
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      0,
-      0
-    ]
-  }
-}
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    }
   ]
+}
 }
