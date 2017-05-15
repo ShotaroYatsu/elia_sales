@@ -2572,6 +2572,54 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "107",
+        "name": "Hog and Dogs Ranch/Produce",
+        "URL": "https://www.facebook.com/HogandDogsRanch/",
+        "street": "12637 Sharon Bee Lane",
+        "city": "Herald",
+        "state": "CA",
+        "zip": "95638",
+        "email": "freerangeangusbeef@gmail.com",
+        "phone": "(916) 688-0913",
+        "indoor/outdoor": "outdoor",
+        "produce type": "hogs,beef",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.154055,
+          38.299016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "108",
+        "name": "Kingbird Farms",
+        "URL": "www.kingbirdfarms.com",
+        "street": "PO Box 336",
+        "city": "Galt",
+        "state": "CA",
+        "zip": "95632",
+        "email": "adam@kingbirdfarms.com",
+        "phone": "(209)260-1066",
+        "indoor/outdoor": "outdoor",
+        "produce type": "eggs,vegetables,fruits",
+        "notes": "CSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.299949,
+          038.254637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "109",
         "name": "Farm Fresh to You",
         "URL": "http://www.farmfreshtoyou.com/",
