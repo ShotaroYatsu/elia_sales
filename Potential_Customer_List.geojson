@@ -2572,6 +2572,30 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "109",
+        "name": "Farm Fresh to You",
+        "URL": "http://www.farmfreshtoyou.com/",
+        "street": "23800 State Highway 16",
+        "city": "Capay",
+        "state": "CA",
+        "zip": "95607",
+        "email": "contactus@farmfreshtoyou.com",
+        "phone": "800.796.6009",
+        "indoor/outdoor": "outdoor",
+        "produce type": "fruits,vegetables",
+        "notes": "CSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070893,
+          38.706917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "110",
         "name": "Blue House Farm",
         "URL": "https://bluehousefarm.com/",
