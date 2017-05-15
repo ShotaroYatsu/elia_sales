@@ -2428,6 +2428,126 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "101",
+        "name": "Eatwell Farm",
+        "URL": "http://www.eatwell.com/",
+        "street": "835 Sievers Rd",
+        "city": "Dixon",
+        "state": "CA",
+        "zip": "95620",
+        "email": "organic@eatwell.com",
+        "phone": "(707) 999-1150",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,chicken",
+        "notes": "105 acres,organic,CSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.872751,
+          38.489881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "102",
+        "name": "The Natural Trading Co.",
+        "URL": "https://naturaltradingco.com/",
+        "street": "5841 Fruitvale Rd",
+        "city": "Newcastle",
+        "state": "CA",
+        "zip": "95658",
+        "email": "N/A",
+        "phone": "(916) 409-9440",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,fruits,eggs",
+        "notes": "CSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.193680,
+          38.914086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "103",
+        "name": "Nevermore Farm",
+        "URL": "http://www.nevermorefarm.com/",
+        "street": "N/A",
+        "city": "Arbuckle",
+        "state": "CA",
+        "zip": "N/A",
+        "email": "nevermorefarm@gmail.com",
+        "phone": "530-574-3597",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "104",
+        "name": "Heavy Dirt Farm",
+        "URL": "http://heavydirtfarm.weebly.com/",
+        "street": "24830 Co Rd 95",
+        "city": "Davis",
+        "state": "CA",
+        "zip": "95616",
+        "email": "heavydirtcsa@gmail.com",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "CSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.294866,
+          37.493586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "105",
+        "name": "Sola Bee",
+        "URL": "http://www.solabeefarms.com/",
+        "street": "23011 Co Rd 103",
+        "city": "Woodland",
+        "state": "CA",
+        "zip": "95776",
+        "email": "info@solabeefarms.com",
+        "phone": "(707)794-0302",
+        "indoor/outdoor": "outdoor",
+        "produce type": "honey",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.711360,
+          38.605581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "106",
         "name": "Del Rio Botanical",
         "URL": "http://delriobotanical.com/site_main.html",
@@ -2446,78 +2566,6 @@
         "coordinates": [
           -121.599008,
           38.646037
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "107",
-        "name": "Hog and Dogs Ranch/Produce ",
-        "URL": "https://www.facebook.com/HogandDogsRanch/",
-        "street": "12637 Sharon Bee Lane",
-        "city": "Herald",
-        "state": "CA",
-        "zip": "95638",
-        "email": "freerangeangusbeef@gmail",
-        "phone": "(916) 688-0913",
-        "indoor/outdoor": "outdoor",
-        "produce type": "hogs,beef",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.154055,
-          38.299016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "108",
-        "name": "Kingbird Farms ",
-        "URL": "www.kingbirdfarms.com",
-        "street": "PO Box 336",
-        "city": "Galt",
-        "state": "CA",
-        "zip": "95632",
-        "email": "adam@kingbirdfarms.com",
-        "phone": "(209)260-1066",
-        "indoor/outdoor": "outdoor",
-        "produce type": "eggs,vegetables,fruits",
-        "notes": "CSA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.299949,
-          038.254637
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "109",
-        "name": "Farm Fresh to You",
-        "URL": "http://www.farmfreshtoyou.com/",
-        "street": "23800 State Highway 16",
-        "city": "Capay",
-        "state": "CA",
-        "zip": "95607",
-        "email": "contactus@farmfreshtoyou.com",
-        "phone": "800.796.6009",
-        "indoor/outdoor": "outdoor",
-        "produce type": "fruits,vegetables",
-        "notes": "CSA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.070893,
-          38.706917
         ]
       }
     },
