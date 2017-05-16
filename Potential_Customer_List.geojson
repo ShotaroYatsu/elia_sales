@@ -2308,7 +2308,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "96",
+        "id": "97",
         "name": "Nyia Yi Farms",
         "URL": "https://www.facebook.com/NyiaYiFarms/",
         "street": "",
@@ -2332,7 +2332,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "97",
+        "id": "98",
         "name": "Harvest Fields",
         "URL": "https://harvestfields.farm/",
         "street": "5397 E Olive Ave",
@@ -2356,7 +2356,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "98",
+        "id": "99",
         "name": "Mary's Turkey",
         "URL": "http://marysturkeys.com/",
         "street": "",
@@ -2380,7 +2380,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "99",
+        "id": "100",
         "name": "Casa Rosa Farms",
         "URL": "http://www.casarosafarm.com/",
         "street": "N/A",
@@ -2404,7 +2404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "100",
+        "id": "101",
         "name": "Suzie's Farm",
         "URL": "http://suziesfarm.com/",
         "street": "2570 Sunset Avenue",
@@ -2428,7 +2428,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "101",
+        "id": "102",
         "name": "Eatwell Farm",
         "URL": "http://www.eatwell.com/",
         "street": "835 Sievers Rd",
@@ -2452,7 +2452,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "102",
+        "id": "103",
         "name": "The Natural Trading Co.",
         "URL": "https://naturaltradingco.com/",
         "street": "5841 Fruitvale Rd",
@@ -2476,7 +2476,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "103",
+        "id": "104",
         "name": "Nevermore Farm",
         "URL": "http://www.nevermorefarm.com/",
         "street": "N/A",
@@ -2500,7 +2500,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "104",
+        "id": "105",
         "name": "Heavy Dirt Farm",
         "URL": "http://heavydirtfarm.weebly.com/",
         "street": "24830 Co Rd 95",
@@ -2524,7 +2524,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "105",
+        "id": "106",
         "name": "Sola Bee",
         "URL": "http://www.solabeefarms.com/",
         "street": "23011 Co Rd 103",
@@ -2548,7 +2548,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "106",
+        "id": "107",
         "name": "Del Rio Botanical",
         "URL": "http://delriobotanical.com/site_main.html",
         "street": "20030 Old River Rd",
@@ -2572,7 +2572,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "107",
+        "id": "108",
         "name": "Hog and Dogs Ranch/Produce",
         "URL": "https://www.facebook.com/HogandDogsRanch/",
         "street": "12637 Sharon Bee Lane",
@@ -2596,7 +2596,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "108",
+        "id": "109",
         "name": "Kingbird Farms",
         "URL": "www.kingbirdfarms.com",
         "street": "PO Box 336",
@@ -2613,14 +2613,14 @@
         "type": "Point",
         "coordinates": [
           -121.299949,
-          038.254637
+          38.254637
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "109",
+        "id": "110",
         "name": "Farm Fresh to You",
         "URL": "http://www.farmfreshtoyou.com/",
         "street": "23800 State Highway 16",
@@ -2644,7 +2644,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "110",
+        "id": "111",
         "name": "Blue House Farm",
         "URL": "https://bluehousefarm.com/",
         "street": "5000 Pescadero Creek Road",
@@ -2668,7 +2668,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "111",
+        "id": "112",
         "name": "Prather Ranch Meat Co.",
         "URL": "http://prmeatco.com/",
         "street": "1 Ferry Building # 33",
@@ -2692,7 +2692,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "112",
+        "id": "113",
         "name": "Happy Child CSA",
         "URL": "http://happychildcsa.com/",
         "street": "P.O. Box 2110",
@@ -2716,7 +2716,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "113",
+        "id": "114",
         "name": "Cloverfield Farm",
         "URL": "https://www.facebook.com/cloverfieldorganic/",
         "street": "501 La Paloma Rd",
@@ -2740,7 +2740,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "114",
+        "id": "115",
         "name": "Tara Firma Farms",
         "URL": "http://www.tarafirmafarms.com/",
         "street": "3796 I Street Ext.",
@@ -2764,7 +2764,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "115",
+        "id": "116",
         "name": "Shooting Star Organic Farm",
         "URL": "http://shootingstarorganicfarm.com/",
         "street": "PO BOX 3087",
@@ -2788,7 +2788,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "116",
+        "id": "117",
         "name": "Olson Farms Producte",
         "URL": "http://www.olsonfarmsproduce.com/",
         "street": "4725 West Street",
@@ -2812,7 +2812,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "117",
+        "id": "118",
         "name": "Green Skies Vertical Farm",
         "URL": "http://gsvfarm.com/",
         "street": "1004 Hearst Avenue",
@@ -2836,7 +2836,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "118",
+        "id": "119",
         "name": "Alemany Farm",
         "URL": "http://www.alemanyfarm.org/",
         "street": "700 Alemany Blvd",
@@ -2860,7 +2860,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "119",
+        "id": "120",
         "name": "Fifth Crow Farm",
         "URL": "http://fifthcrowfarm.com/",
         "street": "3800 Cloverdale Rd.",
