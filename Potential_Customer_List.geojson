@@ -3869,16 +3869,208 @@
       "type": "Feature",
       "properties": {
         "id": "162",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "name": "Sunny Cabana Farm",
+        "URL": "https://www.sunnycabanafarm.com",
+        "street": "18880 Avenue B.",
+        "city": "Perris",
+        "state": "CA",
+        "zip": "92570",
+        "email": "farmer@sunnycabanafarm.com",
+        "phone": "714.869.8379",
+        "indoor/outdoor": "outdoor",
+        "produce type": "goat milk",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.332996,
+          33.854616
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "id": "163",
+        "name": "Harry's Berries",
+        "URL": "http://www.harrysberries.com/",
+        "street": "5777 E Vineyard Ave",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": "93036",
+        "email": "N/A",
+        "phone": "(805)659-4568",
+        "indoor/outdoor": "outdoor",
+        "produce type": "berries",
+        "notes": "40 acres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.143267,
+          34.267995
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "id": "164",
+        "name": "Blue House Farm",
+        "URL": "https://bluehousefarm.com",
+        "street": "950 La Honda Road",
+        "city": "San Gregorio",
+        "state": "CA",
+        "zip": "94074",
+        "email": "info@bluehousefarm.com",
+        "phone": "650-879-0704",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "40 acres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.385581,
+          37.327150
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "id": "165",
+        "name": "Lemon Ladies Orchard",
+        "URL": "http://www.lemonladies.com/",
+        "street": "775 Upland Road",
+        "city": "Emerald Hills",
+        "state": "CA",
+        "zip": "94062",
+        "email": "KarenMorss@gmail.com",
+        "phone": "(650)363-1600",
+        "indoor/outdoor": "outdoor",
+        "produce type": "lemons",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.254633,
+          37.470908
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "id": "166",
+        "name": "Jellicles Farms",
+        "URL": "http://jellicle-cats.squarespace.com/",
+        "street": "505 Paloma Way",
+        "city": "Sunol",
+        "state": "CA",
+        "zip": "94586",
+        "email": "JELLICLESINC@GMAIL.COM",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "fruits,herbs,vegetables",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.877301,
+          37.590616
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "id": "167",
+        "name": "Leftcoast Grassfed",
+        "URL": "http://www.leftcoastgrassfed.com/",
+        "street": "N/A",
+        "city": "Pescadero",
+        "state": "CA",
+        "zip": "94060",
+        "email": "info@leftcoastgrassfed.com",
+        "phone": "650-879-2147",
+        "indoor/outdoor": "outdoor",
+        "produce type": "cattle",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.383015,
+          37.255164
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "id": "168",
+        "name": "1 Acre Farm",
+        "URL": "http://morganhillcsa.com/",
+        "street": "900 W Edmundson Ave",
+        "city": "Morgan Hill",
+        "state": "CA",
+        "zip": "95037",
+        "email": "farmer@morganhillcsa.com",
+        "phone": "(510)207-4620",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,eggs,herbs",
+        "notes": "one acre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.656662,
+          37.106316
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "id": "169",
+        "name": "Everett Family Farm",
+        "URL": "http://everettfamilyfarm.com/",
+        "street": "2111 Old San Jose Road",
+        "city": "Soquel",
+        "state": "CA",
+        "zip": "95073",
+        "email": "everettfamilyfarm@gmail.com",
+        "phone": "831-566-0472",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,eggs",
+        "notes": "45 acres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.951644,
+          37.015189
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "id": "170",
+        "name": "The Mulberry Guy",
+        "URL": "https://themulberryguy.com/",
+        "street":"N/A",
+        "city": "N/A",
+        "state": "CA",
+        "zip": "N/A",
+        "email": "themulberryguy@gmail.com",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "mulberries",
         "notes": ""
       },
       "geometry": {
@@ -3892,288 +4084,96 @@
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "171",
+        "name": "J.E. Perry Farms",
+        "URL": "http://perryfarmsorganic.com/",
+        "street": "34600 Ardenwood Blvd.",
+        "city": "Fremont",
+        "state": "CA",
+        "zip": "94555",
+        "email": "dougperryfarmsorganic@gmail.com",
+        "phone": "(510) 791-0340",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,apricot,cherry,walnut,pumpkin",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -122.057782,
+          37.552855
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "172",
+        "name": "Echo Valley Farm",
+        "URL": "http://www.echovalleyfarm.net/",
+        "street": "335 Wurr Road",
+        "city": "Loma Mar",
+        "state": "CA",
+        "zip": "94060",
+        "email": "kate@echovalleyfarm.net",
+        "phone": "(650) 879-0206",
+        "indoor/outdoor": "outdoor",
+        "produce type": "goats,eggs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -122.303689,
+          37.272388
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "173",
+        "name": "Markegard Family Grass-fed",
+        "URL": "http://www.markegardfamily.com/",
+        "street": "20080 Cabrillo Hwy S",
+        "city": "Half Moon Bay",
+        "state": "CA",
+        "zip": "94019",
+        "email": "Info@MarkegardFamily.com",
+        "phone": "(650) 670-7984",
+        "indoor/outdoor": "outdoor",
+        "produce type": "beef,lamb,pork,chicken",
+        "notes": "grass-fed"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -122.404826,
+          37.367522
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "174",
+        "name": "Love Apple Farms",
+        "URL": "http://www.growbetterveggies.com/",
+        "street": "2317 Vine Hill Rd",
+        "city": "Santa Cruz",
+        "state": "CA",
+        "zip": "95065",
+        "email": "loveapplefarms@gmail.com",
+        "phone": "(831) 588-3801",
+        "indoor/outdoor": "outdoor",
+        "produce type": "tomatos",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
+          -121.980744,
+          37.075366
         ]
       }
     },
