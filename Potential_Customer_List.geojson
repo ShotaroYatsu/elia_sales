@@ -3605,270 +3605,270 @@
       "type": "Feature",
       "properties": {
         "id": "151",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "name": "Deardoff Family Farms",
+        "URL": "https://www.deardorfffamilyfarms.com",
+        "street": "400 N. Lombard St.",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": "93032",
+        "email": "info@deardorfffamilyfarms.com",
+        "phone": "805.487.7801",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "2.5 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -119.148324,
+          34.205663
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "152",
+        "name": "Friend's Ranch",
+        "URL": "https://friendsranches.com/",
+        "street": "15150 Maricopa Hwy",
+        "city": "Ojai",
+        "state": "CA",
+        "zip": "93023",
+        "email": "friends@friendsranches.com",
+        "phone": "(805) 646-6528",
+        "indoor/outdoor": "outdoor",
+        "produce type": "citrus,avocado",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -119.290517,
+          34.479172
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "153",
+        "name": "Mud Creek Ranch",
+        "URL": "http://www.mudcreeksp.com/",
+        "street": "N/A",
+        "city": "Santa Paula",
+        "state": "CA",
+        "zip": "93060",
+        "email": "N/A",
+        "phone": "(805) 525-0758",
+        "indoor/outdoor": "outdoor",
+        "produce type": "avocados,figs,stone fruit,apples,grapefruits",
+        "notes": "65 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -119.059271,
+          34.354166
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "154",
+        "name": "Ojai Olive OIl",
+        "URL": "http://www.ojaioliveoil.com",
+        "street": "1811 Ladera Road",
+        "city": "Ojai",
+        "state": "CA",
+        "zip": "93023",
+        "email": "info@ojaioliveoil.com",
+        "phone": "805-646-5964",
+        "indoor/outdoor": "outdoor",
+        "produce type": "olive oil",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -119.206146,
+          34.468530
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "155",
+        "name": "Ojai Valley Bee Farm",
+        "URL": "http://www.ojaivalleybeefarm.com/",
+        "street": "701 Park Rd",
+        "city": "Ojai",
+        "state": "CA",
+        "zip": "93023",
+        "email": "info@ojaivalleybeefarm.com",
+        "phone": "(805)646-2025",
+        "indoor/outdoor": "outdoor",
+        "produce type": "beeswax,royal jelly",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -119.236064,
+          34.454479
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "156",
+        "name": "Oaggio Farm/Regalo Olive Oil",
+        "URL": "http://regalogift.com/",
+        "street": "283 Carne Rd",
+        "city": "Ojai",
+        "state": "CA",
+        "zip": "93023",
+        "email": "info@regalogift.com",
+        "phone": "(805) 701-4145",
+        "indoor/outdoor": "outdoor",
+        "produce type": "olives",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -119.207482,
+          34.449348
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "157",
+        "name": "Petty Ranch/Saticoy Roots",
+        "URL": "http://www.saticoyroots.com/",
+        "street": "19867 E Telegraph Rd",
+        "city": "Santa Paula",
+        "state": "CA",
+        "zip": "93060",
+        "email": "pettyranch@saticoyroots.com",
+        "phone": "(805) 320-2157",
+        "indoor/outdoor": "outdoor",
+        "produce type": "avocados,citrus",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -119.002994,
+          34.377284
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "158",
+        "name": "Scarborough Farms",
+        "URL": "http://www.scarboroughfarms.com/",
+        "street": "731 Pacific Ave",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": "93030",
+        "email": "N/A",
+        "phone": "(805) 483-9113",
+        "indoor/outdoor": "outdoor",
+        "produce type": "salad greens,herbs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -119.165428,
+          34.193849
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "159",
+        "name": "Terry Berries",
+        "URL": "http://terryberries.com/",
+        "street": "7618 Telephone Rd.",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": "34.268546",
+        "email": "N/A",
+        "phone": "(805)620-7534",
+        "indoor/outdoor": "outdoor",
+        "produce type": "berries",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -119.189944,
+          34.268546
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "160",
+        "name": "Underwood Family Farms",
+        "URL": "https://underwoodfamilyfarms.com/",
+        "street": "3370 Sunset Valley Rd",
+        "city": "Moorpark",
+        "state": "CA",
+        "zip": "93021",
+        "email": "info@underwoodfamilyfarms.com",
+        "phone": "805-529-3690",
+        "indoor/outdoor": "outdoor",
+        "produce type": "fruits,vegetables",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -118.851648,
+          34.255332
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "161",
+        "name": "Weiser Family Farms",
+        "URL": "http://www.weiserfamilyfarms.com/",
+        "street": "19247 Highline Rd",
+        "city": "Tehachapi",
+        "state": "CA",
+        "zip": "93561",
+        "email": "weiserfamilyfarms@yahoo.com",
+        "phone": "(213)748-9300",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "170 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -118.468177,
+          35.109443
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
+        "id": "162",
         "name": "",
         "URL": "",
         "street": "",
