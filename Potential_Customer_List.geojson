@@ -3293,16 +3293,64 @@
       "type": "Feature",
       "properties": {
         "id": "138",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "name": "Frogtown Urban Farm",
+        "URL": "https://www.frogtownurbanfarm.com",
+        "street": "2450 Riverside Drive",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90039",
+        "email": "frogtownurbanfarm@gmail.com",
+        "phone": "(747) 228-6201",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.255699,
+          34.105240
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "id": "139",
+        "name": "Flanigan Farms",
+        "URL": "http://www.flaniganfarms.com/",
+        "street": "5560 East Slauson Ave",
+        "city": "Commerce",
+        "state": "CA",
+        "zip": "90040",
+        "email": "web@flaniganfarms.com",
+        "phone": "(323) 278-9578",
+        "indoor/outdoor": "outdoor",
+        "produce type": "nuts,persimmons",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164717,
+          33.985723
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "id": "140",
+        "name": "City Fresh Farming",
+        "URL": "http://cityfreshfarming.com/",
+        "street": "N/A",
+        "city": "N/A",
+        "state": "CA",
+        "zip": "N/A",
+        "email": "customerservice@cityfreshfarming.com",
+        "phone": "(626) 303 - 6643",
+        "indoor/outdoor": "indoor",
+        "produce type": "herbs",
         "notes": ""
       },
       "geometry": {
@@ -3316,295 +3364,247 @@
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "141",
+        "name": "Bobcat Properties Farm",
+        "URL": "https://www.facebook.com/Bobcat-Properties-Farm-144263675633688/",
+        "street": "Joseph Canyon",
+        "city": "Corona",
+        "state": "CA",
+        "zip": "92877",
+        "email": "bobcatlms@netzero.net",
+        "phone": "(909)241-4618",
+        "indoor/outdoor": "outdoor",
+        "produce type": "avocados,grapefruits,oranges,lemons,pomegranates,honey",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -117.559459,
+          33.813654
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "142",
+        "name": "Roaring L Ranch",
+        "URL": "https://www.localharvest.org/roaring-l-ranch-M22939",
+        "street": "11124 Monte Vista Road",
+        "city": "Phelan",
+        "state": "CA",
+        "zip": "92371",
+        "email": "N/A",
+        "phone": "(760) 868-6826",
+        "indoor/outdoor": "outdoor",
+        "produce type": "fruits",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -117.560637,
+          34.452258
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "143",
+        "name": "Da-Le Ranch",
+        "URL": "https://www.da-le-ranch.com/",
+        "street": "24895 Baxter Ranch Rd",
+        "city": "Lake Elsinore",
+        "state": "CA",
+        "zip": "92532",
+        "email": "info.daleranch@gmail.com",
+        "phone": "619-886-4102",
+        "indoor/outdoor": "outdoor",
+        "produce type": "beef,chicken,pork,lamb,eggs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -117.349585,
+          33.757546
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "144",
+        "name": "Olde Reminisce Farms",
+        "URL": "http://www.oldereminiscefarms.com/",
+        "street": "P.O. Box 16",
+        "city": "Jurupa Valley",
+        "state": "CA",
+        "zip": "91752",
+        "email": "N/A",
+        "phone": "951 505-5230",
+        "indoor/outdoor": "outdoor",
+        "produce type": "pork,chicken",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -117.485480,
+          33.997197
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "145",
+        "name": "BC Clucks & Ducks",
+        "URL": "https://www.localharvest.org/bc-clucks-ducks-M70671",
+        "street": "35729 Anthony Road",
+        "city": "Agua dulce",
+        "state": "CA",
+        "zip": "91390",
+        "email": "N/A",
+        "phone": "(661) 305-3223",
+        "indoor/outdoor": "outdoor",
+        "produce type": "chicken,eggs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -118.280952,
+          34.527218
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "146",
+        "name": "Bennett's Honey Farm",
+        "URL": "http://www.bennetthoney.com",
+        "street": "3176 Honey Lane",
+        "city": "Filmore",
+        "state": "CA",
+        "zip": "93015",
+        "email": "N/A",
+        "phone": "805-521-1375",
+        "indoor/outdoor": "outdoor",
+        "produce type": "honey",
+        "notes": "100% solar powered"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -118.815404,
+          34.405280
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
+        "id": "147",
+        "name": "Rainbow Ranch Farms",
+        "URL": "https://www.rainbowranchfarms.com",
+        "street": "N/A",
+        "city": "Pinon Hills",
+        "state": "CA",
+        "zip": "92372",
+        "email": "N/A",
+        "phone": "(760) 868-6206",
         "indoor/outdoor": "",
-        "produce type": "",
+        "produce type": "poultry,eggs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -117.646792,
+          34.433237
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "148",
+        "name": "Buckhorn Canyon Ranch",
+        "URL": "https://www.facebook.com/BHCRANCH/",
+        "street": "3121 East Telegraph Road",
+        "city": "Fillmore",
+        "state": "CA",
+        "zip": "93015",
+        "email": "N/A",
+        "phone": "(805) 501-9245",
+        "indoor/outdoor": "outdoor",
+        "produce type": "oranges,lemons,avocados,pmegranates",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -118.816799,
+          34.400748
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "149",
+        "name": "Rodriguez Family Farms",
+        "URL": "https://www.facebook.com/RodriguezFamilyFarms/",
+        "street": "2780 E Pleasant Valley Rd",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": "93030",
+        "email": "N/A",
+        "phone": "(805) 366-7343",
+        "indoor/outdoor": "outdoor",
+        "produce type": "strawberries",
+        "notes": "8 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -119.136759,
+          34.168946
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "150",
+        "name": "Moonstruck Farms",
+        "URL": "http://www.moonstruckfarms.com/",
+        "street": "5137 Cygnet Rd",
+        "city": "Phelan",
+        "state": "CA",
+        "zip": "92371",
+        "email": "moonstruckfarms2@verizon.net",
+        "phone": "(760) 868-4858",
+        "indoor/outdoor": "outdoor",
+        "produce type": "fruits,eggs,meats",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -117.547372,
+          34.400134
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "id": "",
+        "id": "151",
         "name": "",
         "URL": "",
         "street": "",
