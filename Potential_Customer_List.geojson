@@ -4180,72 +4180,72 @@
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "175",
+        "name": "Andy's Orchard",
+        "URL": "https://andysorchard.com/",
+        "street": "1615 Half Rd.",
+        "city": "Morgan Hill",
+        "state": "CA",
+        "zip": "95037",
+        "email": "Andysorchard@andysorchard.com",
+        "phone": "(408) 782-7600",
+        "indoor/outdoor": "outdoor",
+        "produce type": "cherry,apricot,peach,plum,persimmon",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -121.636923,
+          37.152411
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "176",
+        "name": "Red Barn Farm",
+        "URL": "http://redbarnfarmpoultry.webs.com/",
+        "street": "PO Box 21294",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95151",
+        "email": "amys_barn@yahoo.com",
+        "phone": "408-472-3026",
+        "indoor/outdoor": "outdoor",
+        "produce type": "poultry",
+        "notes": "free range"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -121.886329,
+          37.338208
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "177",
+        "name": "J&P Farms",
+        "URL": "https://www.facebook.com/JandPFarms/",
+        "street": "4977 Carter Ave",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95118",
+        "email": "N/A",
+        "phone": "(408) 264-3497",
+        "indoor/outdoor": "outdoor",
+        "produce type": "fruits",
+        "notes": "organic"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -121.907738,
+          37.249249
         ]
       }
     },
