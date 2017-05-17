@@ -3077,16 +3077,184 @@
       "type": "Feature",
       "properties": {
         "id": "129",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "name": "Morris Grassfed",
+        "URL": "https://www.morrisgrassfed.com",
+        "street": "500 Mission Vineyard Road",
+        "city": "San Juan Bautista",
+        "state": "CA",
+        "zip": "95045",
+        "email": "info@morrisgrassfed.com",
+        "phone": "831.623.2933",
+        "indoor/outdoor": "outdoor",
+        "produce type": "beef",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.506544,
+          36.826750
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "id": "130",
+        "name": "Napa Grass Farmers",
+        "URL": "http://www.napagrassfarmer.com/",
+        "street": "2727 Mankas Corner Rd",
+        "city": "Fairfield",
+        "state": "CA",
+        "zip": "94534",
+        "email": "info@napagrassfarmer.com",
+        "phone": "707-320-2028",
+        "indoor/outdoor": "outdoor",
+        "produce type": "pork,beef,lamb",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.095429,
+          38.279149
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "id": "131",
+        "name": "Rancho Piccolo",
+        "URL": "http://ranchopiccolo.com/",
+        "street": "1120 Commerce Avenue # 7",
+        "city": "Atwater",
+        "state": "CA",
+        "zip": "95301",
+        "email": "ranchopiccolo@hotmail.com",
+        "phone": "209-201-1053",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs",
+        "notes": "60 acres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.611443,
+          37.342782
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "id": "132",
+        "name": "Say Hay Farms",
+        "URL": "http://www.sayhayfarms.com/",
+        "street": "19182 County Road 87B",
+        "city": "Esparto",
+        "state": "CA",
+        "zip": "95627",
+        "email": "sayhayfarms@gmail.com",
+        "phone": "(530) 507-8107",
+        "indoor/outdoor": "outdoor",
+        "produce type": "eggs,vegetables",
+        "notes": "45 acres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.998804,
+          38.659969
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "id": "133",
+        "name": "Sea Forager Seafood",
+        "URL": "http://www.seaforager.com/",
+        "street": "P.O. Box 3032",
+        "city": "Moss Beach",
+        "state": "CA",
+        "zip": "94038",
+        "email": "fishwife@seaforager.com",
+        "phone": "N/A",
+        "indoor/outdoor": "N/A",
+        "produce type": "fish",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.513312,
+          37.527440
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "id": "134",
+        "name": "Shattuck Gardens",
+        "URL": "https://sites.google.com/site/shattuckgardens/",
+        "street": "N/A",
+        "city": "North Berkeley",
+        "state": "CA",
+        "zip": "N/A",
+        "email": "coletterowe@gmail.com",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "CSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.273896,
+          37.876292
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "id": "135",
+        "name": "Shooting Star Organic Farm",
+        "URL": "http://shootingstarorganicfarm.com/",
+        "street": "PO BOX 3087",
+        "city": "Fairfield",
+        "state": "CA",
+        "zip": "94533",
+        "email": "shootingstarorganic@gmail.com",
+        "phone": "707-207-0548",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,fruits",
+        "notes": "15 acres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.039966,
+          38.249358
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "id": "136",
+        "name": "Steadfast Herbs",
+        "URL": "http://www.steadfastherbs.com/",
+        "street": "N/A",
+        "city": "N/A",
+        "state": "CA",
+        "zip": "N/A",
+        "email": "steadfastherbs@gmail.com",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "herbs",
         "notes": ""
       },
       "geometry": {
@@ -3100,199 +3268,31 @@
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "137",
+        "name": "True Grass Farms",
+        "URL": "http://truegrassfarms.com/",
+        "street": "PO Box 412",
+        "city": "Valley Ford",
+        "state": "CA",
+        "zip": "94972",
+        "email": "TRUEGRASSFARMS@LIVE.COM",
+        "phone": "707-876-3567",
+        "indoor/outdoor": "outdoor",
+        "produce type": "pork,beef,lamb",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -122.924020,
+          38.317876
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
- {
-      "type": "Feature",
-      "properties": {
-        "id": "",
+        "id": "138",
         "name": "",
         "URL": "",
         "street": "",
