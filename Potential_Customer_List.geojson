@@ -2884,24 +2884,24 @@
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "121",
+        "name": "Blue Egg Farm LLC",
+        "URL": "http://www.blueeggfarmllc.com/",
+        "street": "5 Brookbank Road",
+        "city": "Orinda",
+        "state": "CA",
+        "zip": "94563",
+        "email": "N/A",
+        "phone": "(925) 386-0172 ",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -122.188843,
+          37.904208
         ]
       }
     },
