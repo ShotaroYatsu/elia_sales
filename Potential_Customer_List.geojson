@@ -4493,335 +4493,335 @@
       "type": "Feature",
       "properties": {
         "id": "188",
-        "name": "Paper Wings Farm",
-        "URL": "http://www.paperwingsfarm.com/",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "flowers,herbs",
-        "notes": "1 acre"
+        "name": "Holland Ranch",
+        "URL": "http://www.hollandranchorganics.com/",
+        "street": "41346 27th St.",
+        "city": "West Palmdale",
+        "state": "CA",
+        "zip": "93551",
+        "email": "EatGoodFood@HollandRanchOrganics.com",
+        "phone": "661-618-4095",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,fruits",
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -118.178370,
+          34.634459
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "189",
+        "name": "White Dove Farm",
+        "URL": "http://www.whitedovesfarmfresh.com/Passion-Fruit.html",
+        "street": "15821 West Santa Paula St.",
+        "city": "Santa Paula",
+        "state": "CA",
+        "zip": "93060",
+        "email": "N/A",
+        "phone": "(805)933-1889(John Koman)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "passion fruit,pineapple guava",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -119.092281,
+          34.345469
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "190",
+        "name": "ReRide Ranch",
+        "URL": "https://www.facebook.com/ReRide-Ranch-167131903298279/",
+        "street": "32633 Pine Canyon Rd",
+        "city": "Lake Hughes",
+        "state": "CA",
+        "zip": "93532",
+        "email": "N/A",
+        "phone": "(661)586-7411",
+        "indoor/outdoor": "outdoor",
+        "produce type": "pork",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -118.704310,
+          34.745214
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "191",
+        "name": "J&J Grassfed Beef ",
+        "URL": "http://www.jandjgrassfedbeef.com/",
+        "street": "572 Anita Drive",
+        "city": "Tehachapi",
+        "state": "CA",
+        "zip": "93561",
+        "email": "info@jandjgrassfedbeef.com",
+        "phone": "(661)301-1043",
+        "indoor/outdoor": "outdoor",
+        "produce type": "beef",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -118.438928,
+          35.126238
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "192",
+        "name": "Tangleweed Farm",
+        "URL": "http://tangleweedfarm.com/",
+        "street": "21192 Old Town Road",
+        "city": "Tehachapi",
+        "state": "CA",
+        "zip": "93561",
+        "email": "N/A",
+        "phone": "(661)822-8806",
+        "indoor/outdoor": "outdoor",
+        "produce type": "fruits,vegetables",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -118.508596,
+          35.126206
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "193",
+        "name": "Autonomy Farms ",
+        "URL": "https://autonomyfarms.com",
+        "street": "21600 Adobe Rd.",
+        "city": "Bakersfield",
+        "state": "CA",
+        "zip": "93307",
+        "email": "info@autonomyfarms.com",
+        "phone": "(661)430-0106",
+        "indoor/outdoor": "outdoor",
+        "produce type": "beef,lamb,poultry,eggs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -118.969982,
+          35.158990
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "194",
+        "name": "Rock Front Ranch",
+        "URL": "http://www.rockfrontranch.com/",
+        "street": "10590 Highway 166",
+        "city": "Santa Maria",
+        "state": "CA",
+        "zip": "93456",
+        "email": "N/A",
+        "phone": "(805)478-6033",
+        "indoor/outdoor": "outdoor",
+        "produce type": "honey,jujube",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -120.197505,
+          35.028705
         ]
       }
     },
  {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "195",
+        "name": "M&M Peach Ranch",
+        "URL": "https://www.facebook.com/MMPeachRanch/",
+        "street": "48745 Three Points Rd",
+        "city": "Lake Hughes",
+        "state": "CA",
+        "zip": "93532",
+        "email": "N/A",
+        "phone": "(661)724-1398",
+        "indoor/outdoor": "outdoor",
+        "produce type": "peaches",
+        "notes": "65 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -118.595005,
+          34.766401
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "196",
+        "name": "Santa Barbara Pistachio Company",
+        "URL": "http://www.santabarbarapistachios.com/",
+        "street": "3380 Highway 33",
+        "city": "Ventucopa",
+        "state": "CA",
+        "zip": "93252",
+        "email": "N/A",
+        "phone": "(661)766-2177",
+        "indoor/outdoor": "outdoor",
+        "produce type": "pistachios",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -119.479979,
+          34.848163
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "197",
+        "name": "Pedazo de Cielo Farms",
+        "URL": "http://pedazodecielofarms.com/",
+        "street": "N/A",
+        "city": "Bakersfield",
+        "state": "CA",
+        "zip": "N/A",
+        "email": "pedazodecielofarms@gmail.com",
+        "phone": "(661)489-8872(Laurie Sutton)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "eggs",
+        "notes": "3 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -119.018712,
+          35.373292
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "198",
+        "name": "BJ's Lavender",
+        "URL": "https://www.localharvest.org/bjs-lavender-M25788",
+        "street": "9400 Wible Rd",
+        "city": "Bakersfield",
+        "state": "CA",
+        "zip": "93313",
+        "email": "N/A",
+        "phone": "(661)835-7600",
+        "indoor/outdoor": "outdoor",
+        "produce type": "herbs,eggs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -119.037840,
+          35.270251
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "199",
+        "name": "MoonDog Community Farm",
+        "URL": "https://www.facebook.com/MoondogFarmdenver?ref=bookmarks",
+        "street": "333 S 22nd Ave",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80205",
+        "email": "N/A",
+        "phone": "(720) 212-3026(Faatma Mehrmanesh)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "fruits,vegetables",
+        "notes": "urban farm"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.795374,
+          39.980658
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "200",
+        "name": "Anahata Farms",
+        "URL": "https://www.facebook.com/anahatafarms/",
+        "street": "N/A",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "N/A",
+        "email": "anahatafarms@gmail.com",
+        "phone": "(303)513-6080",
+        "indoor/outdoor": "outdoor",
+        "produce type": "microgreens",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.990251,
+          39.739236
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "201",
+        "name": "Farm Yard CSA ",
+        "URL": "http://www.farmyardcsa.com/",
+        "street": "N/A",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "N/A",
+        "email": "N/A",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.990251,
+          39.739236
         ]
       }
     },
