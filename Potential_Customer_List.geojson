@@ -4828,31 +4828,31 @@
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "202",
+        "name": "Lora's Nourishing Produce ",
+        "URL": "http://www.lorasnourishingproduce.com/",
+        "street": "992 S. 4th Ave. Unit 100 PMB 127",
+        "city": "Brighton",
+        "state": "CO",
+        "zip": "80601",
+        "email": "lora@lorasnourishingproduce.com",
+        "phone": "(720)988-9088",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,fruits,herbs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.817806,
+          39.969849
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
+        "id": "203",
         "name": "",
         "URL": "",
         "street": "",
