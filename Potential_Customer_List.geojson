@@ -5165,534 +5165,534 @@
       "type": "Feature",
       "properties": {
         "id": "216",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "name": "Wormies Earth Farm",
+        "URL": "http://www.wormiesearthfarm.com/",
+        "street": "N/A",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "zip": "N/A",
+        "email": "support@wormiesearthfarm.com",
+        "phone": "(719)460-9901",
+        "indoor/outdoor": "outdoor",
+        "produce type": "worms,worm castings",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.821363,
+          38.833882
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "217",
+        "name": "Black Forest Bison",
+        "URL": "http://blackforestbison.com/",
+        "street": "1234 E. Woodmen Road, Suite 120",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "zip": "80920",
+        "email": "trailboss@blackforestbison.com",
+        "phone": "(719)488-3898",
+        "indoor/outdoor": "outdoor",
+        "produce type": "bison meat",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.802972,
+          38.933553
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "218",
+        "name": "Ivywild Aquaponics and Neighborhood Farm",
+        "URL": "http://ivywildfarm.com/",
+        "street": "N/A",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "zip": "N/A",
+        "email": "N/A",
+        "phone": "N?A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "eggs,honey,vegetables",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.821363,
+          38.833882
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "219",
+        "name": "Austin Family Farm",
+        "URL": "http://austinfamilyfarm.csasignup.com/",
+        "street": "14741 Canyon Road",
+        "city": "Paonia",
+        "state": "CO",
+        "zip": "81428",
+        "email": "N/A",
+        "phone": "(719)338-4146",
+        "indoor/outdoor": "outdoor",
+        "produce type": "fruits,vegetables,honey",
+        "notes": "CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -107.623000,
+          38.866300
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "220",
+        "name": "Pikes Peak Family Farms",
+        "URL": "http://pikespeakfamilyfarms.com/index.html",
+        "street": "N/A",
+        "city": "Pikes Peak",
+        "state": "CO",
+        "zip": "N/A",
+        "email": "Melanie@pikespeakfamilyfarms.com",
+        "phone": "(719)329-4211",
+        "indoor/outdoor": "outdoor/indoor",
+        "produce type": "vegetables,herbs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.042260,
+          38.840871
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "221",
+        "name": "Little Roman Farm",
+        "URL": "http://www.littleromanfarm.com/",
+        "street": "8170 Valli-Farm Rd",
+        "city": "Fountain",
+        "state": "CO",
+        "zip": "80817",
+        "email": "farmer@littleromanfarm.com",
+        "phone": "(541)829-1483(Leticia Ward)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "eggs,vegetables",
+        "notes": "CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.676090,
+          38.704958
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "222",
+        "name": "Greenhorn Acres CSA",
+        "URL": "http://www.greenhornacrescsa.com",
+        "street": "5856 County Road HH.5",
+        "city": "Fowler",
+        "state": "CO",
+        "zip": "81039",
+        "email": "CSA@GreenhornAcresCSA.com",
+        "phone": "(719)263-4494(Marcy Nameth)",
+        "indoor/outdoor": "Outdoor",
+        "produce type": "heirlooms,vegetables",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -103.970433,
+          38.090616
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "223",
+        "name": "Arkansas Valley Organic Growers",
+        "URL": "http://www.arkvalleygrowers.com/",
+        "street": "1516 Asbury Lane",
+        "city": "Boone",
+        "state": "CO",
+        "zip": "81025",
+        "email": "farmers@arkvalleygrowers.com",
+        "phone": "(719)947-1087",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.294647,
+          38.223908
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "224",
+        "name": "Peak City Gardens",
+        "URL": "http://www.peakcitygardens.com/",
+        "street": "110 W Las Vegas St",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "zip": "80903",
+        "email": "N/A",
+        "phone": "(719)422-9440",
+        "indoor/outdoor": "indoor",
+        "produce type": "vegetables,herbs,microgreens",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.828582,
+          38.818612
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "225",
+        "name": "Kinikin Processing llc",
+        "URL": "http://www.kinikin.com/",
+        "street": "1032 64.50 Road",
+        "city": "Montrose",
+        "state": "CO",
+        "zip": "81401",
+        "email": "N/A",
+        "phone": "(970)240-4329",
+        "indoor/outdoor": "outdoor",
+        "produce type": "beef,pork,lamb",
+        "notes": "hormone & antibiotic free"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -107.883937,
+          38.488157
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "226",
+        "name": "Hillbilly Farms",
+        "URL": "http://localvorecolorado.com/",
+        "street": "17245 Milne Rd",
+        "city": "Hanover",
+        "state": "CO",
+        "zip": "80928",
+        "email": "localvorecolorado@yahoo.com",
+        "phone": "(719)205-8574",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.478747,
+          38.585300
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "227",
+        "name": "The Cluckin' Chicken Ranch",
+        "URL": "https://www.facebook.com/cluckinchickenranch/",
+        "street": "31440 Washington RD",
+        "city": "Calhan",
+        "state": "CO",
+        "zip": "80808",
+        "email": "orders@cluckinchickenranch.com",
+        "phone": "(703)336-9314",
+        "indoor/outdoor": "outdoor/indoor",
+        "produce type": "eggs,honey",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.225218,
+          38.987324
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "228",
+        "name": "Heritage Belle Farms",
+        "URL": "https://www.heritagebellefarms.com/index.html",
+        "street": "22755 East Garrett Road",
+        "city": "Calhan",
+        "state": "CO",
+        "zip": "80808",
+        "email": "HeritageBelleFarms@gmail.com",
+        "phone": "(970)310-0852",
+        "indoor/outdoor": "outdoor",
+        "produce type": "pastured, grass-finished longhorn beef, pork, chicken",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.408788,
+          38.910589
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "229",
+        "name": "Pure Food Colorado",
+        "URL": "http://www.purefoodscolorado.com/",
+        "street": "7246 Log Rd.",
+        "city": "Peyton",
+        "state": "CO",
+        "zip": "80831",
+        "email": "purefoodscolorado@gmail.com",
+        "phone": "(719)930-2627",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,raw dairy,micro-greens",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.428257,
+          38.936905
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "230",
+        "name": "Kretsinger Beef",
+        "URL": "http://www.kretsingerbeef.com/",
+        "street": "7725 Rd 1 S",
+        "city": "Alamosa",
+        "state": "CO",
+        "zip": "81101",
+        "email": "N/A",
+        "phone": "(719)589-0429",
+        "indoor/outdoor": "outdoor",
+        "produce type": "beef,lamb",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.920138,
+          37.560039
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "231",
+        "name": "Oxford Gardens",
+        "URL": "http://oxfordgardensboulder.com/",
+        "street": "10145 Oxford Road",
+        "city": "Longmont",
+        "state": "CO",
+        "zip": "80504",
+        "email": "peter.volz@comcast.net",
+        "phone": "(303)817-9676",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs",
+        "notes": "half acre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.123161,
+          40.116210
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "232",
+        "name": "HeartEye Village CSA",
+        "URL": "http://hearteyevillagecsa.com/",
+        "street": "10364 Arapaho Rd.",
+        "city": "Lafayette",
+        "state": "CO",
+        "zip": "80026",
+        "email": "N/A",
+        "phone": "(303)665-6309(Tracy Sweely)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs",
+        "notes": "CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.110537,
+          40.014735
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "233",
+        "name": "Altan Alma Organics",
+        "URL": "https://www.facebook.com/AltanAlmaOrganics/",
+        "street": "4593 N Broadway",
+        "city": "Boulder",
+        "state": "CO",
+        "zip": "80304",
+        "email": "altanalma@gmail.com",
+        "phone": "(303)437-1288",
+        "indoor/outdoor": "outdoor",
+        "produce type": "herbs,microgreens",
+        "notes": "7.5 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.282806,
+          40.058024
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "234",
+        "name": "Aspen Moon Farm",
+        "URL": "http://www.aspenmoonfarm.com/",
+        "street": "8020 Hygiene Rd.",
+        "city": "Longmont",
+        "state": "CO",
+        "zip": "80503",
+        "email": "info@aspenmoonfarm.com",
+        "phone": "(303)684-6848",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.166199,
+          40.188639
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "235",
+        "name": "EcoGlatt",
+        "URL": "https://www.facebook.com/Ecoglatt/",
+        "street": "4100 Burnt Mill Road S",
+        "city": "Pueblo",
+        "state": "CO",
+        "zip": "81004",
+        "email": "contact@ecoglatt.com",
+        "phone": "(855) 356-7437",
+        "indoor/outdoor": "outdoor",
+        "produce type": "Kosher meats",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.693695,
+          38.115443
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "236",
+        "name": "Jacob Springs Farm",
+        "URL": "https://www.facebook.com/JacobSpringsFarm/",
+        "street": "7602 Arapahoe Rd",
+        "city": "Boulder",
+        "state": "CO",
+        "zip": "80303",
+        "email": "N/A",
+        "phone": "(720) 201-5725",
+        "indoor/outdoor": "outdoor",
+        "produce type": "lamb,duck,chicken,goose,eggs,fruits,herbs,vegetables",
+        "notes": "grass-fed proteins"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.175880,
+          40.014306
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "237",
+        "name": "Sunbeam Farm",
+        "URL": "http://www.sunbeamfarm.com/",
+        "street": "1005 Cherryvale Rd",
+        "city": "Boulder",
+        "state": "CO",
+        "zip": "80303",
+        "email": "info@sunbeamfarm.com",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.213608,
+          40.005298
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
+        "id": "238",
         "name": "",
         "URL": "",
         "street": "",
