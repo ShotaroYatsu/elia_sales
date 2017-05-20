@@ -5693,455 +5693,455 @@
       "type": "Feature",
       "properties": {
         "id": "238",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "name": "BBB Seed",
+        "URL": "https://www.bbbseed.com/",
+        "street": "6595 Odell Place, Unit G",
+        "city": "Boulder",
+        "state": "CO",
+        "zip": "80301",
+        "email": "info@bbbseed.com",
+        "phone": "(303)530-1222",
+        "indoor/outdoor": "outdoor",
+        "produce type": "seeds",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.199979,
+          40.074139
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "239",
+        "name": "Colorado's Best Beef Company",
+        "URL": "http://www.naturalbeef.com/",
+        "street": "4791 Jay Rd",
+        "city": "Boulder",
+        "state": "CO",
+        "zip": "80301",
+        "email": "N/A",
+        "phone": "(303)449-8632",
+        "indoor/outdoor": "outdoor",
+        "produce type": "beef",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.242198,
+          40.051647
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "240",
+        "name": "Hoot 'n' Howl Farm",
+        "URL": "http://www.hootnhowlfarm.com/",
+        "street": "6033 Jay Rd",
+        "city": "Boulder",
+        "state": "CO",
+        "zip": "80301",
+        "email": "jrpoley@comcast.net",
+        "phone": "(720)446-6825(Janet Poley)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "berries,fruits",
+        "notes": "U-Pick"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.212928,
+          40.051524
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "241",
+        "name": "Serendipity Farm",
+        "URL": "http://www.boulderserendipityfarm.com/",
+        "street": "8417 N. Foothills Highway",
+        "city": "Boulder",
+        "state": "CO",
+        "zip": "80302",
+        "email": "boulderserendipityfarm@gmail.com",
+        "phone": "(303)719-4484",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,eggs,chicken,turkey,pork,beef",
+        "notes": "3 acres,CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.283286,
+          40.127595
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "242",
+        "name": "Sunseed Farm",
+        "URL": "http://www.gosunseed.com/",
+        "street": "Isabelle Rd.",
+        "city": "Lafayette",
+        "state": "CO",
+        "zip": "80026",
+        "email": "N/A",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,medicinal herbs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.113874,
+          40.036643
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "243",
+        "name": "Red Wagon Farm",
+        "URL": "https://redwagonfarmboulder.com/",
+        "street": "7694 N 63rd St",
+        "city": "Niwot",
+        "state": "CO",
+        "zip": "80503",
+        "email": "info@redwagonorganicfarm.com",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "30 acre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.206845,
+          40.113919
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "244",
+        "name": "New Moon Farms",
+        "URL": "http://www.newmoonfarms.com/",
+        "street": "3298 95th Street",
+        "city": "Boulder",
+        "state": "CO",
+        "zip": "80301",
+        "email": "newmoondoc@gmail.com",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "eggs,seasonal produce,raw honey",
+        "notes": "1&1/2 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.131027,
+          40.034681
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "245",
+        "name": "Pachamama Farm & Wellness",
+        "URL": "http://www.pachamamafarm.com/",
+        "street": "10771 North 49th Street",
+        "city": "Longmont",
+        "state": "CO",
+        "zip": "80503",
+        "email": "info@pachamamafarm.com",
+        "phone": "(716) 860-3594",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs",
+        "notes": "38 acres,CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.240028,
+          40.169073
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "246",
+        "name": "The Diaz Farm ",
+        "URL": "http://www.thediazfarm.com/",
+        "street": "2818 Jay Rd",
+        "city": "Boulder",
+        "state": "CO",
+        "zip": "80301",
+        "email": "thediazfarm@gmail.com",
+        "phone": "(720)454-5475",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,eggs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.258686,
+          40.050213
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "247",
+        "name": "Cure Organic Farm",
+        "URL": "http://www.cureorganicfarm.com/",
+        "street": "7416 Valmont Rd.",
+        "city": "Boulder",
+        "state": "CO",
+        "zip": "80301",
+        "email": "cureorganicfarm@yahoo.com",
+        "phone": "(303)666-6397",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs,fruits,honey,chicken,eggs,beef,sheep,pork",
+        "notes": "15 acres,CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.180112,
+          40.033136
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "248",
+        "name": "63rd St. Farm",
+        "URL": "http://63rdstfarm.com/",
+        "street": "3796 63rd St",
+        "city": "Boulder",
+        "state": "CO",
+        "zip": "80301",
+        "email": "info@63rdStFarm.com",
+        "phone": "(720)938-3059",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,meats,dairy",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.206151,
+          40.043260
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "249",
+        "name": "North Field Farm",
+        "URL": "https://www.northfieldfarm.org/",
+        "street": "Nyland Way",
+        "city": "Lafayette",
+        "state": "CO",
+        "zip": "80026",
+        "email": "farmerlara@northfieldfarm.org",
+        "phone": "(720)515-5287",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,fruits",
+        "notes": "CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.150191,
+          39.997879
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "250",
+        "name": "Kilt Farm",
+        "URL": "http://www.kiltfarm.com/",
+        "street": "8140 Oxford Rd",
+        "city": "Niwot",
+        "state": "CO",
+        "zip": "80503",
+        "email": "Michael@KiltFarm.com",
+        "phone": "(970)846-6233",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.163388,
+          40.115268
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "251",
+        "name": "Jodar Farms",
+        "URL": "http://www.jodarfarms.com/",
+        "street": "5100 E County Road 48",
+        "city": "Fort Collins",
+        "state": "CO",
+        "zip": "80524",
+        "email": "jodarfarms@gmail.com",
+        "phone": "(970)391-2825",
+        "indoor/outdoor": "outdoor",
+        "produce type": "poultry,eggs,pork",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.981287,
+          40.595480
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "252",
+        "name": "Double Dig Farm, CSA",
+        "URL": "https://www.facebook.com/doubledigfarm/",
+        "street": "8851 W US-34",
+        "city": "Loveland",
+        "state": "CO",
+        "zip": "80538",
+        "email": "doubledigfarms@gmail.com",
+        "phone": "(413)427-8458",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.205898,
+          40.411077
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "253",
+        "name": "Raisin' Roots Farm ",
+        "URL": "http://raisinrootsfarm.com/",
+        "street": "901 South County Rd 31",
+        "city": "Berthoud",
+        "state": "CO",
+        "zip": "80513",
+        "email": "RaisinRoots@gmail.com",
+        "phone": "(443)863-0677",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.221951,
+          40.284926
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "254",
+        "name": "Shire CSA",
+        "URL": "www.shirecsa.com",
+        "street": "713 E Prospect Rd",
+        "city": "Fort Collins",
+        "state": "CO",
+        "zip": "80525",
+        "email": "lukeshirecsa@gmail.com",
+        "phone": "(970)222-2077",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.065964,
+          40.565675
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "255",
+        "name": "Gaia's Farm & Gardens",
+        "URL": "https://www.gaiascsa.com/",
+        "street": "4328 w. Co. Rd. 54g",
+        "city": "Laporte",
+        "state": "CO",
+        "zip": "80535",
+        "email": "gaiasfarmgardens@aol.com",
+        "phone": "(970)817-2186",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,eggs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.156477,
+          40.634770
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "256",
+        "name": "Copoco's Honey ",
+        "URL": "http://copocoshoney.com/",
+        "street": "2020 N College Ave",
+        "city": "Fort Collins",
+        "state": "CO",
+        "zip": "80524",
+        "email": "N/A",
+        "phone": "(970)416-6468",
+        "indoor/outdoor": "outdoor",
+        "produce type": "honey",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.076096,
+          40.613774
         ]
       }
     },
