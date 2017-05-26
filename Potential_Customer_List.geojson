@@ -6148,6 +6148,2766 @@
 {
       "type": "Feature",
       "properties": {
+        "id": "257",
+        "name": "Garden Sweet Farm",
+        "URL": "https://gardensweet.com",
+        "street": "719 W. Willox Ln",
+        "city": "Fort Collins",
+        "state": "CO",
+        "zip": "80524",
+        "email": "info@gardensweet.com",
+        "phone": "970.889.4922",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "CSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.089601,
+          40.609734
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "258",
+        "name": "Happy Heart Farm LLC",
+        "URL": "https://happyheartfarmcsa.com",
+        "street": "2820 W. Elizabeth St",
+        "city": "Ft. Collins",
+        "state": "CO",
+        "zip": "80521",
+        "email": "info@happyheartfarmcsa.com",
+        "phone": "970-219-4294",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.128696,
+          40.576822
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "259",
+        "name": "Good Grin Farm",
+        "URL": "http://www.goodgrinfarm.com/",
+        "street": "2925 W Mulberry St",
+        "city": "Fort Collins",
+        "state": "CO",
+        "zip": "80521",
+        "email": "info@goodgrinfarm.com",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,eggs",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.133207,
+          40.581302
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "260",
+        "name": "Green Dog Farm CSA",
+        "URL": "http://www.greendogfarmcsa.com/",
+        "street": "1807 W. Vine",
+        "city": "Fort Collins",
+        "state": "CO",
+        "zip": "80521",
+        "email": "greendogfarmcsa@gmail.com",
+        "phone": "(651) 341-3130(Karl Talbot)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs,garlic",
+        "notes": "CSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.109348,
+          40.594480
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "261",
+        "name": "Oberlebotanical Gardening Site",
+        "URL": "http://www.oberlebotanical.com/",
+        "street": "832 Timber Lane",
+        "city": "Fort Collins",
+        "state": "CO",
+        "zip": "80521",
+        "email": "N/A",
+        "phone": "(970) 581-5672",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.123606,
+          40.576763
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "262",
+        "name": "Genesa Garden",
+        "URL": "http://genesagarden.com/",
+        "street": "263 Badger Ct",
+        "city": "Drake",
+        "state": "CO",
+        "zip": "80515",
+        "email": "danette.steele@gmail.com",
+        "phone": "(970)402-5023",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,fruits,herbs",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.321692,
+          40.463772
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "263",
+        "name": "Tierra Bella Farm",
+        "URL": "https://tierrabellafarm.com",
+        "street": "N/A",
+        "city": "Fort Collins",
+        "state": "CO",
+        "zip": "N/A",
+        "email": "tierrabellafarm@gmail.com",
+        "phone": "(970) 443-7518",
+        "indoor/outdoor": "outdoor",
+        "produce type": "eggs,goat milk,goat meat,vegetables,herbs",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.084423,
+          40.585260
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "264",
+        "name": "Pope Farms",
+        "URL": "http://www.popefarmsproduce.com/",
+        "street": "6501 West. 28th St.",
+        "city": "Greeley",
+        "state": "CO",
+        "zip": "80634",
+        "email": "popefarmsproduce@gmail.com",
+        "phone": "(970)330-5907",
+        "indoor/outdoor": "outdoor",
+        "produce type": "fruits,vegetables",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.785030,
+          40.392765
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "265",
+        "name": "Westlake Apiaries",
+        "URL": "http://westlakeapiaries.com/",
+        "street": "10th Street",
+        "city": "Loveland",
+        "state": "CO",
+        "zip": "80537",
+        "email": "alfred@westlakeapiaries.com",
+        "phone": "(970) 213-3364(Alfred Westlake)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "honey",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.136822,
+          40.381639
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "266",
+        "name": "Vibrant Life Farms",
+        "URL": "https://www.vibrantlifefarms.com/",
+        "street": "3315 Glade Rd",
+        "city": "Loveland",
+        "state": "CO",
+        "zip": "80538",
+        "email": "N/A",
+        "phone": "(970) 222-5917",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.174890,
+          40.426712
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "267",
+        "name": "Small Acre Farm",
+        "URL": "http://www.smallacrefarm.com/",
+        "street": "N/A",
+        "city": "Fort Collins",
+        "state": "CO",
+        "zip": "80524",
+        "email": "N/A",
+        "phone": "(970) 305-1049",
+        "indoor/outdoor": "outdoor",
+        "produce type": "eggs,goat milk",
+        "notes": "10 acres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.008989,
+          40.635880
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "268",
+        "name": "Native Hill Farm",
+        "URL": "https://www.nativehillfarm.com/",
+        "street": "2100 CR 54G",
+        "city": "Laporte",
+        "state": "CO",
+        "zip": "80524",
+        "email": "info@nativehillfarm.com",
+        "phone": "970-217-8964(Nic)",
+        "indoor/outdoor": "indoor/outdoor",
+        "produce type": "vegetables",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.114655,
+          40.627464
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "269",
+        "name": "Red Dog Expressions & Lavender Farm CSA ",
+        "URL": "https://reddogexpressions.wordpress.com/",
+        "street": "N/A",
+        "city": "Fort COllins",
+        "state": "CO",
+        "zip": "N/A",
+        "email": "N/A",
+        "phone": "(970) 219-6468(Kris Holthaus)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "honey,lavender",
+        "notes": "CSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.084423,
+          40.585260
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "270",
+        "name": "Woolly Goat Farm",
+        "URL": "https://www.woollygoatfarm.com",
+        "street": "117 S. Taft Hill Road",
+        "city": "Fort Collins",
+        "state": "CO",
+        "zip": "80521",
+        "email": "jennifer@woollygoatfarm.com",
+        "phone": "970-231-9069",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,eggs",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.116183,
+          40.585723
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "271",
+        "name": "Blue Barrel Farm",
+        "URL": "http://bluebarrelfarm.blogspot.com/p/welcome-to-blue-barrel.html",
+        "street": "40907 County Road15",
+        "city": "Fort Collins",
+        "state": "CO",
+        "zip": "80524",
+        "email": "bluebarrelfarm@gmail.com",
+        "phone": "(970) 484-5836(Pam Erthal)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs,some fruits",
+        "notes": "organic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.929534,
+          40.594317
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "272",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "name": "",
+        "URL": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "email": "",
+        "phone": "",
+        "indoor/outdoor": "",
+        "produce type": "",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
         "id": "",
         "name": "",
         "URL": "",
