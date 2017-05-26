@@ -6509,366 +6509,366 @@
       "type": "Feature",
       "properties": {
         "id": "272",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "name": "Edmundson Ranches",
+        "URL": "http://edmundsonbeef.com/",
+        "street": "PO Box 128",
+        "city": "Walsenburg",
+        "state": "CO",
+        "zip": "81089",
+        "email": "tyandkassi@aol.com",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "grass-fed beef",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.780264,
+          37.624179
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "273",
+        "name": "Black Forest Bison Company",
+        "URL": "http://blackforestbison.com/",
+        "street": "1234 E. Woodmen Road",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "zip": "80920",
+        "email": "N/A",
+        "phone": "(719) 488-3898",
+        "indoor/outdoor": "outdoor",
+        "produce type": "bison meat",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.802972,
+          38.933553
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "274",
+        "name": "Heritage Belle Farms",
+        "URL": "https://www.heritagebellefarms.com",
+        "street": "22755 East Garrett Road",
+        "city": "Calhan",
+        "state": "CO",
+        "zip": "80808",
+        "email": "HeritageBelleFarms@gmail.com",
+        "phone": "970-310-0852",
+        "indoor/outdoor": "outdoor",
+        "produce type": "longhorn beef,lamb,pork,eggs,chicken,turkey",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.408788,
+          38.910589
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "275",
+        "name": "Ivywild Aquaponics and Neighborhood Farm",
+        "URL": "http://ivywildfarm.com/",
+        "street": "N/A",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "zip": "N/A",
+        "email": "N/A",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "fruits,vegetables,eggs,honey",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.821363,
+          38.833882
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "276",
+        "name": "Happy Apple Farm",
+        "URL": "http://www.happyapplefarm.com/",
+        "street": "1190 1st Street",
+        "city": "Penrose",
+        "state": "CO",
+        "zip": "81240",
+        "email": "atf@bresnan.net",
+        "phone": "719-429-6300",
+        "indoor/outdoor": "outdoor",
+        "produce type": "apples,blackberries,raspberries",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.000141,
+          38.453812
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "277",
+        "name": "Larga Vista Ranch & Dairy",
+        "URL": "http://www.largavistaranch.com/about-larga-vista-ranch.php",
+        "street": "53227 Olson Road",
+        "city": "Boone",
+        "state": "CO",
+        "zip": "81025",
+        "email": "info@largavistaranch.com",
+        "phone": "719-947-0982",
+        "indoor/outdoor": "outdoor",
+        "produce type": "beef,pork",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.304665,
+          38.213036
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "278",
+        "name": "Blue Raven Farm",
+        "URL": "https://www.facebook.com/Blue-Raven-Farm-315499935133686/",
+        "street": "2316 Catalpa Street",
+        "city": "Pueblo",
+        "state": "CO",
+        "zip": "81001",
+        "email": "lamorrislabs@aol.com",
+        "phone": "(719)924-8345",
+        "indoor/outdoor": "outdoor/indoor",
+        "produce type": "fruits,honey",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.568639,
+          38.264969
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "279",
+        "name": "L&M Ranch",
+        "URL": "https://mkt.com/lmranch",
+        "street": "198 County Road 440",
+        "city": "La Veta",
+        "state": "CO",
+        "zip": "81055",
+        "email": "info@lmranch.us",
+        "phone": "(719)742-5731",
+        "indoor/outdoor": "outdoor",
+        "produce type": "lamb,beef,pork",
+        "notes": "organic"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.045970,
+          37.521663
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "280",
+        "name": "Miele Farms LLC.",
+        "URL": "http://mielefarms.com/",
+        "street": "N/A",
+        "city": "Calhan",
+        "state": "CO",
+        "zip": "N/A",
+        "email": "julie@mielefarms.com",
+        "phone": "(719) 640-1031",
+        "indoor/outdoor": "outdoor",
+        "produce type": "pasture raised pork,lamb,chicken,beef,eggs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.297186,
+          39.035546
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "281",
+        "name": "High Altitude Rhubarb Farm & Nursery ",
+        "URL": "http://www.highaltituderhubarb.com/",
+        "street": "7225 Wildridge Rd.",
+        "city": "Black Forest",
+        "state": "CO",
+        "zip": "80908",
+        "email": "dennis.duncan@highaltituderhubarb.com",
+        "phone": "(719)494-8424",
+        "indoor/outdoor": "outdoor",
+        "produce type": "rhubarb,seeds",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.693320,
+          39.037570
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "282",
+        "name": "Pure Foods Colorado",
+        "URL": "http://www.purefoodscolorado.com/",
+        "street": "7246 Log Rd.",
+        "city": "Peyton",
+        "state": "CO",
+        "zip": "80831",
+        "email": "purefoodscolorado@gmail.com",
+        "phone": "(719)930-2627",
+        "indoor/outdoor": "outdoor",
+        "produce type": "greass-fed beef,raw goat milk,raw cow milk,micro greens",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.428257,
+          38.936905
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "283",
+        "name": "Fresh Start Family Farms",
+        "URL": "http://www.freshstartfamilyfarms.com/",
+        "street": "31470 Jamar LN",
+        "city": "Calhan",
+        "state": "CO",
+        "zip": "80808",
+        "email": "tcobosco@freshstartfamilyfarms.com",
+        "phone": "719-493-9780",
+        "indoor/outdoor": "outdoor",
+        "produce type": "eggs",
+        "notes": "35 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.247621,
+          38.849156
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "284",
+        "name": "Gray Area Farm",
+        "URL": "http://grayareafarm.com/",
+        "street": "2030 S Edison Rd",
+        "city": "Yoder",
+        "state": "CO",
+        "zip": "80864",
+        "email": "jason@grayareafarm.com",
+        "phone": "(719)439-2054",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "40 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.167792,
+          38.805790
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "285",
+        "name": "Cloud 9 Farms",
+        "URL": "http://www.cloud9farms.com/",
+        "street": "1455 9th st",
+        "city": "Penrose",
+        "state": "CO",
+        "zip": "81240",
+        "email": "N/A",
+        "phone": "719-505-9574",
+        "indoor/outdoor": "outdoor",
+        "produce type": "eggs,chicken,turkey,alfalfa",
+        "notes": "5 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.983989,
+          38.425947
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "286",
+        "name": "A Wren's Nest Farm ",
+        "URL": "http://www.farmerpaulshomesteading.com/",
+        "street": "N/A",
+        "city": "Pueblo",
+        "state": "CO",
+        "zip": "N/A",
+        "email": "palahdef@gmail.com",
+        "phone": "719.248.1776",
+        "indoor/outdoor": "outdoor",
+        "produce type": "heirloom seed bundles",
+        "notes": "urban farm"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -104.609141,
+          38.254447
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
+        "id": "287",
         "name": "",
         "URL": "",
         "street": "",
