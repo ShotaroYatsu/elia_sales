@@ -6869,16 +6869,136 @@
       "type": "Feature",
       "properties": {
         "id": "287",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "name": "Sabo Ranch",
+        "URL": "http://saboranch.com/",
+        "street": "303 Pony Rd.",
+        "city": "Harrison",
+        "state": "MT",
+        "zip": "59735",
+        "email": "saboranch1@gmail.com",
+        "phone": "(406) 685-3248(Jenny Sabo)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "beef",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.836193,
+          45.671538
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "288",
+        "name": "Fridley Creek Farm",
+        "URL": "http://fridleycreekfarm.tripod.com/index.html",
+        "street": "241 Capricorn Dr",
+        "city": "Emigrant",
+        "state": "MT",
+        "zip": "59027",
+        "email": "FridleyCreekFarm@yahoo.com",
+        "phone": "(406)333-9570",
+        "indoor/outdoor": "outdoor",
+        "produce type": "eggs",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.764650,
+          45.363099
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "289",
+        "name": "Cedar Rose Farms ",
+        "URL": "https://www.facebook.com/cedarrosefarm/",
+        "street": "11545 Crystal Mountain Road",
+        "city": "Three Forks",
+        "state": "MT",
+        "zip": "59752",
+        "email": "N/A",
+        "phone": "(406)579-9356",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,eggs",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.411840,
+          46.043242
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "290",
+        "name": "Alpine Organic Farm",
+        "URL": "http://www.alpineorganicfarm.com/index.html",
+        "street": "PO BOX 894",
+        "city": "Three Forks",
+        "state": "MT",
+        "zip": "59752",
+        "email": "info@alpineorganicfarm.com",
+        "phone": "(406)570-4619",
+        "indoor/outdoor": "outdoor",
+        "produce type": "heirloom tomatos,basil,cucumbers,micro greens",
+        "notes": "43 acres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.552192,
+          45.892428
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "291",
+        "name": "Cloud Nine Farm",
+        "URL": "https://www.facebook.com/Cloud-Nine-Farm-200288253333449/",
+        "street": "7 Teepee Ln",
+        "city": "Wilsall",
+        "state": "MT",
+        "zip": "59086",
+        "email": "cloudninefarmer@gmail.com",
+        "phone": "(406)578-2144",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs",
+        "notes": "2.5 acres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.784409,
+          46.019368
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": "292",
+        "name": "Serenity Sheep Farm Stay",
+        "URL": "https://www.serenitysheepfarmstay.com/",
+        "street": "5477 Swamp Rd",
+        "city": "Belgrade",
+        "state": "MT",
+        "zip": "59714",
+        "email": "info@serenitysheepfarmstay.com",
+        "phone": "(406)580-7176",
+        "indoor/outdoor": "outdoor",
+        "produce type": "goat milk,chicken,turkey",
         "notes": ""
       },
       "geometry": {
@@ -6892,463 +7012,343 @@
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "293",
+        "name": "Willow Spring Ranch Montana",
+        "URL": "http://montanaorganiclamb.com/",
+        "street": "8363 Forswall Road",
+        "city": "Belgrade",
+        "state": "MT",
+        "zip": "59714",
+        "email": "info@montanaorganiclamb.com",
+        "phone": "(406)587-6311",
+        "indoor/outdoor": "outdoor",
+        "produce type": "lamb",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -111.008849,
+          45.832243
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "294",
+        "name": "Amaltheia Organic Dairy",
+        "URL": "https://amaltheiadairy.com/",
+        "street": "3380 Penwell Bridge Rd.",
+        "city": "Belgrade",
+        "state": "MT",
+        "zip": "59714",
+        "email": "N/A",
+        "phone": "(406)388-0569",
+        "indoor/outdoor": "outdoor",
+        "produce type": "goat milk",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -111.103776,
+          45.803813
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "295",
+        "name": "Harvest House Farm",
+        "URL": "http://harvesthousefarm.blogspot.com/",
+        "street": "55 Axtell Anceny Rd",
+        "city": "Bozeman",
+        "state": "MT",
+        "zip": "59718",
+        "email": "HarvestHouseFarm@gmail.com",
+        "phone": "(406)763-4464",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs",
+        "notes": "CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -111.198613,
+          45.624715
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "296",
+        "name": "SpringHill Organic Farms",
+        "URL": "http://springhill-organic-farms.appspot.com/",
+        "street": "14326 Rocky Mountain Road",
+        "city": "Belgrade",
+        "state": "MT",
+        "zip": "59714",
+        "email": "springhillorganicfarms@gmail.com",
+        "phone": "(406)581-4868",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "70 acres,CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -111.071695,
+          45.886174
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "297",
+        "name": "3 Fiddles Farm",
+        "URL": "https://www.localharvest.org/3-fiddles-farm-M37365",
+        "street": "10663 Bridger Canyon Rd.",
+        "city": "Bozeman",
+        "state": "MT",
+        "zip": "59715",
+        "email": "N/A",
+        "phone": "(406)922-1808",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -110.892781,
+          45.751448
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "298",
+        "name": "Homestead Farm and Ranch",
+        "URL": "http://www.homesteadfarmranch.com/",
+        "street": "7198 River Road",
+        "city": "Bozeman",
+        "state": "MT",
+        "zip": "59718",
+        "email": "homesteadfarmandranch@gmail.com",
+        "phone": "(406)539-5635",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,eggs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -111.215847,
+          45.700702
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "299",
+        "name": "Gallatin Valley Botanical",
+        "URL": "http://gallatinvalleybotanical.com/",
+        "street": "250 Chester Lane",
+        "city": "Bozeman",
+        "state": "MT",
+        "zip": "59715",
+        "email": "matt@gallatinvalleybotanical.com",
+        "phone": "(406)599-2361",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs,fruits",
+        "notes": "20 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -110.946602,
+          45.661288
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "300",
+        "name": "Strike Farms",
+        "URL": "https://www.strikefarms.com/",
+        "street": "67 Rocky Road",
+        "city": "Bozeman",
+        "state": "MT",
+        "zip": "59718",
+        "email": "info@strikefarms.com",
+        "phone": "(406)581-5483",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs",
+        "notes": "20 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -111.123598,
+          45.650054
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "301",
+        "name": "Three Hearts Farm",
+        "URL": "http://threeheartsfarm.com/",
+        "street": "2111 Love Lane",
+        "city": "Bozeman",
+        "state": "MT",
+        "zip": "59718",
+        "email": "threeheartsfarmmt@gmail.com",
+        "phone": "(406)404-6639",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs",
+        "notes": "20 acres,CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -111.146569,
+          45.722537
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "302",
+        "name": "Montana Wagyu",
+        "URL": "http://www.montanawagyu.com/",
+        "street": "6195 Round Mountain Rd",
+        "city": "Belgrade",
+        "state": "MT",
+        "zip": "59714",
+        "email": "N/A",
+        "phone": "(406)451-5513",
+        "indoor/outdoor": "outdoor",
+        "produce type": "beef,pork",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -111.235434,
+          45.893336
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "303",
+        "name": "7 Spruce Farm",
+        "URL": "https://www.7sprucefarm.com/",
+        "street": "1465 Nelson Road",
+        "city": "Bozeman",
+        "state": "MT",
+        "zip": "59718",
+        "email": "sevensprucefarm@gmail.com",
+        "phone": "(406)451-2271",
+        "indoor/outdoor": "indoor",
+        "produce type": "tomatoes",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -111.083078,
+          45.747031
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "304",
+        "name": "Fat Robin Orchard & Farm",
+        "URL": "http://fatrobinorchard.com/",
+        "street": "34126 S Finley Point Road",
+        "city": "Polson",
+        "state": "MT",
+        "zip": "59860",
+        "email": "info@fatrobinorchard.com",
+        "phone": "(406)887-2869",
+        "indoor/outdoor": "outdoor",
+        "produce type": "cherries,garlic,apples",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -114.055962,
+          47.732269
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "305",
+        "name": "Deluge Farm",
+        "URL": "http://delugefarm.com/",
+        "street": "871 Cottonwood Creek Rd",
+        "city": "Plains",
+        "state": "MT",
+        "zip": "59859",
+        "email": "delugefarm@gmail.com",
+        "phone": "(406)741-5680",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,herbs,eggs",
+        "notes": "20 acres,organic"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -114.648761,
+          47.443123
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "306",
+        "name": "County Rail Farm ",
+        "URL": "https://countyrailfarm.com/",
+        "street": "24275 Mullan Rd",
+        "city": "Huson",
+        "state": "MT",
+        "zip": "59846",
+        "email": "countyrailfarm@gmail.com",
+        "phone": "(406)209-8704",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "organic"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -114.339112,
+          47.029762
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
-{
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
-{
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
-{
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
-{
-      "type": "Feature",
-      "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
-{
-      "type": "Feature",
-      "properties": {
-        "id": "",
+        "id": "307",
         "name": "",
         "URL": "",
         "street": "",
