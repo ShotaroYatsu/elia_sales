@@ -7349,8 +7349,8 @@
       "type": "Feature",
       "properties": {
         "id": "307",
-        "name": "",
-        "URL": "",
+        "name": "Terra Luna Farms",
+        "URL": "http://www.terralunafarms.com/",
         "street": "",
         "city": "",
         "state": "",
@@ -7359,7 +7359,7 @@
         "phone": "",
         "indoor/outdoor": "",
         "produce type": "",
-        "notes": ""
+        "notes": "20 acres"
       },
       "geometry": {
         "type": "Point",
