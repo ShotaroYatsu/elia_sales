@@ -7733,1038 +7733,1038 @@
       "type": "Feature",
       "properties": {
         "id": "323",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "name": "Elevated Harvest",
+        "URL": "https://www.facebook.com/elevatedharvest/",
+        "street": "138 Lower Luther Rd",
+        "city": "Red Lodge",
+        "state": "MT",
+        "zip": "59068",
+        "email": "elevatedharvest@gmail.com",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "herbs,heirloom varieties,lettuces,leafy greens",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -109.412472,
+          45.294332
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "324",
+        "name": "Kate's Garden",
+        "URL": "http://scentsofbalance.com/",
+        "street": "2055 Andromeda Ln",
+        "city": "Billings",
+        "state": "MT",
+        "zip": "59105",
+        "email": "kate@scentsofbalance.com",
+        "phone": "(406)245-9182",
+        "indoor/outdoor": "outdoor",
+        "produce type": "medicinal herbs",
+        "notes": "1 & 1/3 acres,CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -108.484757,
+          45.836635
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "325",
+        "name": "Glover Eggs",
+        "URL": "http://www.glovereggs.com/",
+        "street": "79 El Cielo Azul",
+        "city": "Edgewood",
+        "state": "NM",
+        "zip": "87015",
+        "email": "eggs@glovereggs.com",
+        "phone": "(505)220-2106",
+        "indoor/outdoor": "outdoor",
+        "produce type": "chicken,ducks,eggs,",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.185864,
+          35.116179
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "326",
+        "name": "East Mountain Organic Farms",
+        "URL": "http://www.eastmountainorganicfarms.com/",
+        "street": "PO box 2343",
+        "city": "Tijeras",
+        "state": "NM",
+        "zip": "87059",
+        "email": "tomas@eastmountainorganicfarms.com",
+        "phone": "(505)281-5083(Tomas Apodaca)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,",
+        "notes": "CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.387891,
+          35.079524
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "327",
+        "name": "Jenny's Goats",
+        "URL": "http://www.jennysgoats.com/",
+        "street": "N/A",
+        "city": "Edgewood",
+        "state": "NM",
+        "zip": "87015",
+        "email": "N/A",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "goat milk",
+        "notes": "address listed doesn't show up on maps"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.191414,
+          35.061436
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "328",
+        "name": "Abundia Farms",
+        "URL": "http://abundiafarms.weebly.com/",
+        "street": "N/A",
+        "city": "South Valley",
+        "state": "NM",
+        "zip": "N/A",
+        "email": "abundiafarms@gmail.com",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "2.76 acres,CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.678081,
+          35.010049
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "329",
+        "name": "New Mexico Savoy and Trading Company/NMSTC",
+        "URL": "http://www.nmstc.com/",
+        "street": "400 Cenaroca CT NE",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "87123",
+        "email": "savory@nmstc.com",
+        "phone": "(505)710-2477",
+        "indoor/outdoor": "outdoor",
+        "produce type": "heirloom tomatoes",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.492634,
+          35.072058
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "330",
+        "name": "New Mexico Piñon Nut Co.",
+        "URL": "http://www.pinonnuts.com/",
+        "street": "813 Jefferson Street",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "87108",
+        "email": "pinonnut@gmail.com",
+        "phone": "(505)288-8500",
+        "indoor/outdoor": "outdoor",
+        "produce type": "pine nuts",
+        "notes": "owner's name is David Cuneo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.593547,
+          35.069267
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "331",
+        "name": "Chispas Farm ",
+        "URL": "http://chispasfarms.com/",
+        "street": "229 Saavedra Rd SW",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "87105",
+        "email": "amanda@chispasfarms.com",
+        "phone": "(505)247-4088",
+        "indoor/outdoor": "outdoor",
+        "produce type": "garlic,vegetables,fruits",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.670990,
+          35.065867
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "332",
+        "name": "Red Tractor Farm",
+        "URL": "http://redtractorfarm.net/",
+        "street": "1407 Dennison Rd SW",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "87105",
+        "email": "N/A",
+        "phone": "(505)604-5956(Dory Wegrzyn)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "organic,pestiside/chemical free"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.673333,
+          35.073965
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "333",
+        "name": "Wild Green Gardens",
+        "URL": "https://sites.google.com/site/wildgreengardens/home",
+        "street": "N/A",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "N/A",
+        "email": "Camandable@comcast.net",
+        "phone": "(505)343-9665(Amanda Wilder)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
+        "notes": "1.5 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.605553,
+          35.085334
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "334",
+        "name": "Little Tree Farm",
+        "URL": "http://www.littletreesbees.com/",
+        "street": "Woodland Ave NW",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "87107",
+        "email": "littletreefarms@gmail.com",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "honey,beeswax,chicken,eggs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.652045,
+          35.112532
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "335",
+        "name": "Wagner Farms",
+        "URL": "http://wagnerfarmschile.com/",
+        "street": "5000 Corrales Rd.",
+        "city": "Corrales",
+        "state": "NM",
+        "zip": "87048",
+        "email": "N/A",
+        "phone": "(505)459-0719",
+        "indoor/outdoor": "outdoor",
+        "produce type": "chile,vegetables",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.611348,
+          35.231732
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "336",
+        "name": "Green Beans Farm",
+        "URL": "https://www.facebook.com/greenbeansfarmedgewood/",
+        "street": "N/A",
+        "city": "Edgewood",
+        "state": "NM",
+        "zip": "N/A",
+        "email": "N/A",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.191414,
+          35.061436
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "337",
+        "name": "Manzano Happy Poulter",
+        "URL": "https://www.localharvest.org/manzano-happy-poulter-M71930",
+        "street": "N/A",
+        "city": "Tijeras",
+        "state": "NM",
+        "zip": "N/A",
+        "email": "N/A",
+        "phone": "(505)281-1358(John Reynolds)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "turkey",
+        "notes": "chemical-free"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.387891,
+          35.079524
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "338",
+        "name": "Flora Fauna Farm",
+        "URL": "http://www.florafauna.farm/",
+        "street": "421 Clark Rd SW",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "87105",
+        "email": "jenny@florafauna.farm",
+        "phone": "(505)273-6176",
+        "indoor/outdoor": "outdoor",
+        "produce type": "fruits,vegetables,duck eggs",
+        "notes": "2.1 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.674264,
+          34.993885
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "339",
+        "name": "La Cosecha CSA",
+        "URL": "http://lacosechacsa.org/",
+        "street": "318 Isleta Blvd SW",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "87105",
+        "email": "N/A",
+        "phone": "(505)217-2461",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,fruits",
+        "notes": "co-op farm"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.666592,
+          35.065390
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "340",
+        "name": "Solarpunk Farm",
+        "URL": "https://www.facebook.com/solarpunkfarm/",
+        "street": "N/A",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "N/A",
+        "email": "N/A",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,pumpkins,squash,garlic,fruits",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.605553,
+          35.085334
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "341",
+        "name": "Amyo Farms",
+        "URL": "https://amyofarms.wordpress.com/",
+        "street": "PO Box 7758",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "87194",
+        "email": "N/A",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "fruits,vegetables,herbs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.650255,
+          35.079980
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "342",
+        "name": "Old Town Farm",
+        "URL": "http://oldtownfarm.com/",
+        "street": "949 Montoya Rd NW",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "87104",
+        "email": "N/A",
+        "phone": "(505)764-9116",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,fruits",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.680011,
+          35.103718
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "343",
+        "name": "Skarsgard Farms",
+        "URL": "https://skarsgardfarms.deliverybizpro.com/home.php",
+        "street": "3435 Stanford Ave. NE",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "87107",
+        "email": "support@skarsgardfarms.com",
+        "phone": "(505)681-4060(Shauna Pearson)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "fruits,vegetables,herbs",
+        "notes": "over 36 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.617126,
+          35.119594
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "344",
+        "name": "Heidi's Raspberry Farm",
+        "URL": "https://www.heidisraspberryfarm.com/",
+        "street": "PO Box 1329",
+        "city": "Corrales",
+        "state": "NM",
+        "zip": "87048",
+        "email": "heidi@heidisraspberryfarm.com",
+        "phone": "(505)898-1784(Heidi Eleftheriou)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "raspberries",
+        "notes": "13 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.606693,
+          35.237820
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "345",
+        "name": "VanRiper Farm",
+        "URL": "http://www.nmfarmer.com/",
+        "street": "193 El Camino Verde",
+        "city": "Corrales",
+        "state": "NM",
+        "zip": "87048",
+        "email": "marthavanriper@gmail.com",
+        "phone": "(505)220-1035(Martha)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "fruits,vegetables,gourds",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.643308,
+          35.211150
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "346",
+        "name": "Sunstone Herb Farm",
+        "URL": "http://www.sunstoneherbs.com/",
+        "street": "N/A",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "87105",
+        "email": "sunstoneherbs@gmail.com",
+        "phone": "(888)737-6535",
+        "indoor/outdoor": "outdoor",
+        "produce type": "herbs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.605553,
+          34.956803
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "347",
+        "name": "Zlateh's Kinder Duck and Chicken Eggs",
+        "URL": "https://www.localharvest.org/zlatehs-kinder-duck-and-chicken-eggs-M61021",
+        "street": "1042 Oro Court",
+        "city": "Los Alamos",
+        "state": "NM",
+        "zip": "87544",
+        "email": "N/A",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "chicken eggs",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.277451,
+          35.887661
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "348",
+        "name": "Mrs. Boots' Berries",
+        "URL": "https://www.localharvest.org/mrs-boots-berries-M54743",
+        "street": "11 Potrero Rd",
+        "city": "Chimayo",
+        "state": "NM",
+        "zip": "87522",
+        "email": "bootsberries@cybermesa.com",
+        "phone": "(505)351-4412",
+        "indoor/outdoor": "outdoor",
+        "produce type": "u-pick raspberries,fruits",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.938966,
+          35.990396
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "349",
+        "name": "Revolution Farms",
+        "URL": "https://www.facebook.com/RevolutionFarm/",
+        "street": "N/A",
+        "city": "Santa Fe",
+        "state": "NM",
+        "zip": "N/A",
+        "email": "alexpinoart@gmail.com",
+        "phone": "(505)913-9574",
+        "indoor/outdoor": "outdoor",
+        "produce type": "garlic,salad greens,root crops",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.937799,
+          35.686975
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "350",
+        "name": "Beneficial Farms CSA",
+        "URL": "http://www.beneficialfarm.com/",
+        "street": "N/A",
+        "city": "Santa Fe",
+        "state": "NM",
+        "zip": "87592",
+        "email": "shares@beneficialfarm.com",
+        "phone": "(505)470-1969(Dena Aquilina)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,eggs",
+        "notes": "CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.990000,
+          35.790000
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "351",
+        "name": "Santa Cruz Farm and Greenhouses ",
+        "URL": "https://www.facebook.com/Santa-Cruz-Farm-Greenhouses-1595074274058369/",
+        "street": "P.O. Box 5045",
+        "city": "Espanola",
+        "state": "NM",
+        "zip": "87533",
+        "email": "N/A",
+        "phone": "(505)614-7067",
+        "indoor/outdoor": "indoor/outdoor",
+        "produce type": "vegetables,fruits",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.742754,
+          36.619642
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "352",
+        "name": "Squash Blossom Farm CSA",
+        "URL": "https://www.localharvest.org/squash-blossom-farm-csa-M52469",
+        "street": "430 Este Es Place",
+        "city": "Ranchos De Taos",
+        "state": "NM",
+        "zip": "87557",
+        "email": "N/A",
+        "phone": "(575)751-4681",
+        "indoor/outdoor": "outdoor",
+        "produce type": "herbs,vegetables",
+        "notes": "2 acres,CSA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.579925,
+          36.362927
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "353",
+        "name": "Wee Bee Pickin'",
+        "URL": "https://www.weebeepickin.com/",
+        "street": "98 King Farm Road",
+        "city": "Moriarty",
+        "state": "NM",
+        "zip": "87035",
+        "email": "info@weebeepickin.com",
+        "phone": "(505)705-1423",
+        "indoor/outdoor": "outdoor",
+        "produce type": "pumpkins",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.066024,
+          35.053700
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "354",
+        "name": "Newell Cattle",
+        "URL": "https://sites.google.com/site/newellgrassfed/Newell-Grassfed",
+        "street": "969 Nambe Loop",
+        "city": "Los Alamos",
+        "state": "NM",
+        "zip": "87544",
+        "email": "mnewell969@msn.com",
+        "phone": "(505)662-9846(Matt Newell)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "cow milk,calves",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.280796,
+          35.881647
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "355",
+        "name": "J&L Gardens",
+        "URL": "http://www.jandlgardens.com/",
+        "street": "60 County Road 11",
+        "city": "Espanola",
+        "state": "NM",
+        "zip": "87532",
+        "email": "index.html#goodwin@operamail.com",
+        "phone": "(505)753-7713(Lee Goodwin)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "tomatoes,rare vegetables",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.071224,
+          35.969027
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "356",
+        "name": "Cerro Vista Farm",
+        "URL": "http://cerrovistafarm.com/",
+        "street": "198 Lower Buena Vista Road",
+        "city": "Cerro",
+        "state": "NM",
+        "zip": "87519",
+        "email": "cerrovistafarm@gmail.com",
+        "phone": "N/A",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,onions",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.621859,
+          36.783726
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "357",
+        "name": "Schwebach Farm",
+        "URL": "http://www.schwebachfarm.com/",
+        "street": "807 W. Martinez Road",
+        "city": "Moriarty",
+        "state": "NM",
+        "zip": "87035",
+        "email": "info@schwebachfarm.com",
+        "phone": "(505) 832-6171",
+        "indoor/outdoor": "outdoor",
+        "produce type": "corn,beans,vegetables",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.064760,
+          34.997029
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "358",
+        "name": "Mer-Girl Gardens",
+        "URL": "https://www.facebook.com/Mer-Girl-Gardens-295388580481343/",
+        "street": "N/A",
+        "city": "v",
+        "state": "NM",
+        "zip": "875711",
+        "email": "mergirlgardens@gmail.com",
+        "phone": "(505)927-0150",
+        "indoor/outdoor": "outdoor",
+        "produce type": "fruits,heirloom varieties",
+        "notes": "5 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.321515,
+          36.376512
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "359",
+        "name": "Bodhi Farms",
+        "URL": "http://www.bodhifarms.com/",
+        "street": "50 Sheridan Road",
+        "city": "Las Vegas",
+        "state": "NM",
+        "zip": "87701",
+        "email": "N/A",
+        "phone": "(505)617-1191",
+        "indoor/outdoor": "outdoor",
+        "produce type": "heirloom vegetables,tomatoes",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.251073,
+          35.506437
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "360",
+        "name": "Owl Peak Farm",
+        "URL": "https://www.facebook.com/OwlPeakFarm/",
+        "street": "24B CR 519",
+        "city": "La Madera",
+        "state": "NM",
+        "zip": "87539",
+        "email": "culver.cc@gmail.com",
+        "phone": "(505)583-9264",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,fruits",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.040983,
+          36.383894
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "361",
+        "name": "Los Vallecitos Meats and Produce",
+        "URL": "https://www.facebook.com/LosVallecitos/",
+        "street": "340 Rio de La Casa",
+        "city": "Cleveland",
+        "state": "NM",
+        "zip": "87715",
+        "email": "carlagomez1@hotmail.com",
+        "phone": "(575)387-5030",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,sheep,beef",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.373935,
+          35.989504
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "362",
+        "name": "Rancho Arco Iris ",
+        "URL": "http://www.ranchoarcoiris.com/",
+        "street": "152 NM HWY 580",
+        "city": "Dixon",
+        "state": "NM",
+        "zip": "87527",
+        "email": "N/A",
+        "phone": "(866)259-4301",
+        "indoor/outdoor": "outdoor",
+        "produce type": "fruits,vegetables,herbs",
+        "notes": "organic"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.868079,
+          36.194654
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "363",
+        "name": "Purple Adobe Lavender farm",
+        "URL": "http://purpleadobelavenderfarm.com/",
+        "street": "1622",
+        "city": "Abiquiu",
+        "state": "NM",
+        "zip": "87510",
+        "email": "info@purpleadobelavenderfarm.com",
+        "phone": "(505)685-0082",
+        "indoor/outdoor": "outdoor",
+        "produce type": "lavender",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -106.294856,
+          36.211569
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
+        "id": "364",
+        "name": "Rancho de Santa Fe, The Fruit Basket, Velarde Orchards",
+        "URL": "http://www.ranchodesantafe.net/",
+        "street": "1413 highway 68",
+        "city": "Velarde",
+        "state": "NM",
+        "zip": "87582",
+        "email": "ranchodesantafe3@yahoo.com",
+        "phone": "(505)852-2310(Eddie Velarde)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "chile,corn,fruits,vegetables",
         "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.967837,
+          36.165417
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
-        "name": "",
-        "URL": "",
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": "",
-        "email": "",
-        "phone": "",
-        "indoor/outdoor": "",
-        "produce type": "",
-        "notes": ""
+        "id": "365",
+        "name": "Morning Star Farm",
+        "URL": "http://www.morningstarfarmoftaos.com/",
+        "street": "448 A State HWY 150",
+        "city": "Arroyo seco",
+        "state": "NM",
+        "zip": "87514",
+        "email": "info@morningstarfarmoftaos.com",
+        "phone": "(575)776-1757(Melinda Bateman)",
+        "indoor/outdoor": "outdoor",
+        "produce type": "vegetables,garlic",
+        "notes": "2.5 acres"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -105.571904,
+          36.529493
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "id": "",
+        "id": "366",
         "name": "",
         "URL": "",
         "street": "",
